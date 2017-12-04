@@ -1,0 +1,2786 @@
+{
+  "code": "V",
+  "subject": "Naval Science",
+  "count": 0,
+  "children": {
+    "VA": {
+      "id": "VA",
+      "subject": "Navies: Organization, distribution, naval situation",
+      "count": 0,
+      "children": {
+        "VA10-750": {
+          "id": "VA10-750",
+          "subject": "Navies: Organization, distribution, naval situation",
+          "count": 126,
+          "children": {
+            "VA49-395": {
+              "id": "VA49-395",
+              "subject": "United States",
+              "count": 1169,
+              "children": {},
+              "subjects": {
+                "id": "VA49-395",
+                "subject": "United States",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Silverstone, Paul H",
+                    "gender": null,
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "person": "Kinzey, Bert",
+                    "gender": null,
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "person": "St. John, Philip A",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+                    "person": "Roosevelt, Theodore, 1858-1919",
+                    "gender": "male",
+                    "count": 7,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_1901-08.jpg/200px-Theodore_Roosevelt_1901-08.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Edward_L._Beach_Jr.",
+                    "person": "Beach, Edward L. (Edward Latimer), 1918-2002",
+                    "gender": "male",
+                    "count": 6,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Edward_L_Beach_Jr.jpg/200px-Edward_L_Beach_Jr.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Smith, Myron J",
+                    "gender": "male",
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Coletta, Paolo Enrico, 1916-",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Van Orden, M. D., 1921-",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Bennett, Frank M. (Frank Marion), 1857-1924",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Sumrall, Robert F",
+                    "gender": null,
+                    "count": 4
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "explorer",
+                  "writer"
+                ]
+              }
+            },
+            "VA400-750": {
+              "id": "VA400-750",
+              "subject": "Other regions or countries",
+              "count": 2153,
+              "children": {},
+              "subjects": {
+                "id": "VA400-750",
+                "subject": "Other regions or countries",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Henry_Trevor_Lenton",
+                    "person": "Lenton, H. T",
+                    "gender": "male",
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "person": "Breyer, Siegfried",
+                    "gender": null,
+                    "count": 12
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Samuel_Pepys",
+                    "person": "Pepys, Samuel, 1633-1703",
+                    "gender": "male",
+                    "count": 9,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Samuel_Pepys.jpg/200px-Samuel_Pepys.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Brian_Lavery",
+                    "person": "Lavery, Brian",
+                    "gender": "male",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "person": "Watts, Anthony John",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/David_K._Brown",
+                    "person": "Brown, D. K. (David K.)",
+                    "gender": "male",
+                    "count": 7
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Paul_Kennedy",
+                    "person": "Kennedy, Paul M., 1945-",
+                    "gender": "male",
+                    "count": 7,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Profpaulkennedy.jpg/200px-Profpaulkennedy.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Melʹnikov, Rafail Mikhaĭlovich",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Beaver, Paul, 1953-",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Gröner, Erich",
+                    "gender": "male",
+                    "count": 6
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "historian"
+                ]
+              }
+            }
+          },
+          "subjects": {
+            "id": "VA10-750",
+            "subject": "Navies: Organization, distribution, naval situation",
+            "topPeople": [
+              {
+                "url": null,
+                "person": "Blackman, Raymond V. B",
+                "gender": null,
+                "count": 6
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/James_Wilson_King",
+                "person": "King, J. W. (James Wilson), 1818-1905",
+                "gender": "male",
+                "count": 5,
+                "image": "http://en.wikipedia.org/wiki/Special:FilePath/James_W_King_USN.PNG?width=300"
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VM": {
+      "id": "VM",
+      "subject": "Naval architecture.    Shipbuilding.    Marine engineering",
+      "count": 0,
+      "children": {
+        "VM1-989": {
+          "id": "VM1-989",
+          "subject": "Naval architecture.    Shipbuilding.    Marine engineering",
+          "count": 2935,
+          "children": {
+            "VM311-466": {
+              "id": "VM311-466",
+              "subject": "Special types of vessels",
+              "count": 3035,
+              "children": {},
+              "subjects": {
+                "id": "VM311-466",
+                "subject": "Special types of vessels",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/William_H._Miller_(writer)",
+                    "person": "Miller, William H., 1948-",
+                    "gender": "male",
+                    "count": 25
+                  },
+                  {
+                    "url": null,
+                    "person": "Chapman, Charles Frederic, 1881-",
+                    "gender": null,
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "person": "Nicolson, Ian, 1928-",
+                    "gender": null,
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "person": "Kludas, Arnold",
+                    "gender": "male",
+                    "count": 11,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Arnold_Kludas_(Williams_2009).jpg/200px-Arnold_Kludas_(Williams_2009).jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Benford, Jay R",
+                    "gender": null,
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "person": "Plowman, Peter",
+                    "gender": null,
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "person": "Casey, Don",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Verney, Michael P",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Glenn, Harold T",
+                    "gender": null,
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "person": "Payne, John C., 1954-",
+                    "gender": null,
+                    "count": 9
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VM15-124": {
+              "id": "VM15-124",
+              "subject": "History",
+              "count": 854,
+              "children": {},
+              "subjects": {
+                "id": "VM15-124",
+                "subject": "History",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Nishimura, Shinji, 1879-1943",
+                    "gender": "male",
+                    "count": 9,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Shoyo_Tsubouchi_cropped.jpg/200px-Shoyo_Tsubouchi_cropped.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Frederic_C._Lane",
+                    "person": "Lane, Frederic Chapin, 1900-",
+                    "gender": "male",
+                    "count": 7
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Basil_Greenhill",
+                    "person": "Greenhill, Basil",
+                    "gender": "male",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Riegel, Martin P",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Anderson, Romola",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+                    "person": "Columbus, Christopher",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man,_Said_to_be_Christopher_Columbus.jpg/200px-Portrait_of_a_Man,_Said_to_be_Christopher_Columbus.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Björn_Landström",
+                    "person": "Landström, Björn",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bjorn-Landstrom-1960s.jpg/200px-Bjorn-Landstrom-1960s.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Edward_Keble_Chatterton",
+                    "person": "Chatterton, E. Keble (Edward Keble), 1878-1944",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/E_Keble_Chatterton.jpg/200px-E_Keble_Chatterton.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Robinson, John, 1846-1925",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Lionel_Casson",
+                    "person": "Casson, Lionel, 1914-2009",
+                    "gender": "male",
+                    "count": 4
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "historian",
+                  "university teacher"
+                ]
+              }
+            },
+            "VM595-989": {
+              "id": "VM595-989",
+              "subject": "Marine engineering",
+              "count": 1430,
+              "children": {
+                "VM975-989": {
+                  "id": "VM975-989",
+                  "subject": "ERROR, could not find",
+                  "count": 234,
+                  "children": {},
+                  "subjects": {
+                    "id": "VM975-989",
+                    "subject": "ERROR, could not find",
+                    "topPeople": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Robert_F._Marx",
+                        "person": "Marx, Robert F., 1933-",
+                        "gender": "male",
+                        "count": 5,
+                        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Linder_and_Bob_Marx_1982.JPG?width=300"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Gary_Gentile",
+                        "person": "Gentile, Gary, 1946-",
+                        "gender": "male",
+                        "count": 5
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Keith_Jessop",
+                        "person": "Jessop, Keith",
+                        "gender": "male",
+                        "count": 4
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Joseph_B._MacInnis",
+                        "person": "MacInnis, Joseph B",
+                        "gender": "male",
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Hampton, T. A",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": null,
+                        "person": "Scott, David",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": null,
+                        "person": "Barsky, Steven M",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Edward_Ellsberg",
+                        "person": "Ellsberg, Edward, 1891-",
+                        "gender": "male",
+                        "count": 3,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Edward_Ellsberg.JPG/200px-Edward_Ellsberg.JPG.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Auguste_Piccard",
+                        "person": "Piccard, Auguste, 1884-",
+                        "gender": "male",
+                        "count": 3,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Bundesarchiv_Bild_102-13738,_Auguste_Piccard.jpg/200px-Bundesarchiv_Bild_102-13738,_Auguste_Piccard.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Le Prieur, commandant (Yves)",
+                        "gender": null,
+                        "count": 3
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": false,
+                    "occupations": [
+                      "archaeologist",
+                      "writer",
+                      "anthropologist"
+                    ]
+                  }
+                }
+              },
+              "subjects": {
+                "id": "VM595-989",
+                "subject": "Marine engineering",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Coles, Joan",
+                    "gender": null,
+                    "count": 33
+                  },
+                  {
+                    "url": null,
+                    "person": "Lahue, Kalton C",
+                    "gender": null,
+                    "count": 28
+                  },
+                  {
+                    "url": null,
+                    "person": "Hoy, Ray",
+                    "gender": null,
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "person": "Paterson, William B. (William Brown), 1912-",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/James_Rumsey",
+                    "person": "Rumsey, James, 1743?-1792",
+                    "gender": "male",
+                    "count": 8,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Rumsey-1957.11.2.jpg/200px-James_Rumsey-1957.11.2.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Pounder, C. Coulson (Cuthbert Coulson)",
+                    "gender": null,
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "person": "Ford, Louis Randolph, 1883-",
+                    "gender": null,
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "person": "Coles, Clarence W",
+                    "gender": null,
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "person": "Warren, Nigel",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Milton, James Hugh",
+                    "gender": null,
+                    "count": 5
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VM298.5-301": {
+              "id": "VM298.5-301",
+              "subject": "Shipbuilding industry.    Shipyards",
+              "count": 571,
+              "children": {},
+              "subjects": {
+                "id": "VM298.5-301",
+                "subject": "Shipbuilding industry.    Shipyards",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Karting, Herbert, 1935-",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Peter, Jean",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VM165-276": {
+              "id": "VM165-276",
+              "subject": "Study and teaching",
+              "count": 23,
+              "children": {},
+              "subjects": {
+                "id": "VM165-276",
+                "subject": "Study and teaching",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VM295-296": {
+              "id": "VM295-296",
+              "subject": "Contracts and specifications",
+              "count": 10,
+              "children": {},
+              "subjects": {
+                "id": "VM295-296",
+                "subject": "Contracts and specifications",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "VM1-989",
+            "subject": "Naval architecture.    Shipbuilding.    Marine engineering",
+            "topPeople": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Robert_Fulton",
+                "person": "Fulton, Robert, 1765-1815",
+                "gender": "male",
+                "count": 56,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Robert_Fulton_-_Circle_of_Thomas_Sully.jpg/200px-Robert_Fulton_-_Circle_of_Thomas_Sully.jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Davis, Charles G. (Charles Gerard), 1870-1959",
+                "gender": null,
+                "count": 10
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Jeremy_Howard-Williams",
+                "person": "Howard-Williams, Jeremy, 1922-",
+                "gender": "male",
+                "count": 10
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/John_Fitch_(inventor)",
+                "person": "Fitch, John, 1743-1798",
+                "gender": "male",
+                "count": 9,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/John_Fitch_(inventor).png/200px-John_Fitch_(inventor).png.jpg"
+              },
+              {
+                "url": null,
+                "person": "Owen, Peter, 1950-",
+                "gender": null,
+                "count": 8
+              },
+              {
+                "url": null,
+                "person": "Hansen, Hans Jürgen, 1921-",
+                "gender": null,
+                "count": 8
+              },
+              {
+                "url": null,
+                "person": "Walton, Thomas, 1868?-1913",
+                "gender": null,
+                "count": 7
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Fredrik_Henrik_af_Chapman",
+                "person": "Chapman, F. H. af (Fredrik Henrik), 1721-1808",
+                "gender": "male",
+                "count": 7,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Fredrik_Henrik_af_Chapman.jpg/200px-Fredrik_Henrik_af_Chapman.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Donald_McKay",
+                "person": "McKay, Donald, 1810-1880",
+                "gender": "male",
+                "count": 7,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Donald_McKay_by_Southworth_&_Hawes,_c1850-1855.jpg/200px-Donald_McKay_by_Southworth_&_Hawes,_c1850-1855.jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Hobbs, Edward W",
+                "gender": null,
+                "count": 6
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": [
+              "engineer",
+              "inventor"
+            ]
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VK": {
+      "id": "VK",
+      "subject": "Navigation.    Merchant marine",
+      "count": 0,
+      "children": {
+        "VK1-1661": {
+          "id": "VK1-1661",
+          "subject": "Navigation.    Merchant marine",
+          "count": 1473,
+          "children": {
+            "VK1000-1249": {
+              "id": "VK1000-1249",
+              "subject": "Lighthouse service",
+              "count": 789,
+              "children": {},
+              "subjects": {
+                "id": "VK1000-1249",
+                "subject": "Lighthouse service",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Bruce_Roberts_(photographer)",
+                    "person": "Roberts, Bruce, 1930-",
+                    "gender": "male",
+                    "count": 29,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bruce_Roberts_Photographer.jpg/200px-Bruce_Roberts_Photographer.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Elinor_DeWire",
+                    "person": "De Wire, Elinor, 1953-",
+                    "gender": "female",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Jones, Ray, 1948-",
+                    "gender": null,
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "person": "Holland, F. Ross (Francis Ross), 1927-2005",
+                    "gender": null,
+                    "count": 8
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/James_A._Gibbs",
+                    "person": "Gibbs, Jim, 1922-",
+                    "gender": "male",
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Shelton-Roberts, Cheryl, 1950-",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Thompson, Courtney",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Abbie_Burgess",
+                    "person": "Burgess, Abbie, 1839-1892",
+                    "gender": "female",
+                    "count": 6,
+                    "image": "http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg?width=300"
+                  },
+                  {
+                    "url": null,
+                    "person": "Weintraub, Aileen, 1973-",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Edward_Rowe_Snow",
+                    "person": "Snow, Edward Rowe",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "http://en.wikipedia.org/wiki/Special:FilePath/Snow_mem_0011R.jpg?width=300"
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": []
+              }
+            },
+            "VK401-529": {
+              "id": "VK401-529",
+              "subject": "Study and teaching",
+              "count": 125,
+              "children": {},
+              "subjects": {
+                "id": "VK401-529",
+                "subject": "Study and teaching",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "James, Richard, 1939-",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Wing, Charles, 1939-",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "MacEwen, William A. (William Alvin), 1885-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VK549-572": {
+              "id": "VK549-572",
+              "subject": "Science of navigation",
+              "count": 912,
+              "children": {},
+              "subjects": {
+                "id": "VK549-572",
+                "subject": "Science of navigation",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Benjamin_Dutton_Jr.",
+                    "person": "Dutton, Benjamin, 1883-1937",
+                    "gender": "male",
+                    "count": 12
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Nathaniel_Bowditch",
+                    "person": "Bowditch, Nathaniel, 1773-1838",
+                    "gender": "male",
+                    "count": 9,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Nathaniel_Bowditch_(1773-1838),_American_mathematician_and_actuary.jpeg/200px-Nathaniel_Bowditch_(1773-1838),_American_mathematician_and_actuary.jpeg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Cugle, Charles H. (Charles Hurst)",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Schlereth, Hewitt",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Toghill, Jeff E",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Sonnenberg, Gerrit Jacobus, 1903-",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Dixon, Conrad",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Burch, David, 1942-",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Campbell, Stafford",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Marion_Rice_Hart",
+                    "person": "Hart, M. R. (Marion Rice), 1891-",
+                    "gender": "female",
+                    "count": 5
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": []
+              }
+            },
+            "VK15-124": {
+              "id": "VK15-124",
+              "subject": "History, conditions, etc.",
+              "count": 966,
+              "children": {},
+              "subjects": {
+                "id": "VK15-124",
+                "subject": "History, conditions, etc.",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Basil_Lubbock",
+                    "person": "Lubbock, Basil, 1876-1944",
+                    "gender": "male",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "person": "Greenwood, John Orville",
+                    "gender": null,
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "person": "Arunachalam, B",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Brian_Lavery",
+                    "person": "Lavery, Brian",
+                    "gender": "male",
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Shihāb, Ḥasan Ṣāliḥ",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Alan_Villiers",
+                    "person": "Villiers, Alan, 1903-1982",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Alan_Villiers_-_nla.pic-vn3289567-v.jpg/200px-Alan_Villiers_-_nla.pic-vn3289567-v.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Basil_Greenhill",
+                    "person": "Greenhill, Basil",
+                    "gender": "male",
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Richard_Armstrong_(author)",
+                    "person": "Armstrong, Richard, 1903-1986",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Parsons, Ronald H",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Serafini, Flavio",
+                    "gender": null,
+                    "count": 4
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "writer",
+                  "historian"
+                ]
+              }
+            },
+            "VK573-587": {
+              "id": "VK573-587",
+              "subject": "Nautical instruments",
+              "count": 147,
+              "children": {},
+              "subjects": {
+                "id": "VK573-587",
+                "subject": "Nautical instruments",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Mörzer Bruyns, W. F. J. (Willem Frederik Jacob), 1943-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Bauer, Bruce A., 1931-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VK798-997": {
+              "id": "VK798-997",
+              "subject": "Sailing directions.    Pilot guides",
+              "count": 1444,
+              "children": {},
+              "subjects": {
+                "id": "VK798-997",
+                "subject": "Sailing directions.    Pilot guides",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Douglass, Don, 1932-",
+                    "gender": null,
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "person": "Coles, K. Adlard (Kaines Adlard)",
+                    "gender": null,
+                    "count": 8
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Matthew_Fontaine_Maury",
+                    "person": "Maury, Matthew Fontaine, 1806-1873",
+                    "gender": "male",
+                    "count": 8,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Lt._Matthew_Maury.jpg/200px-Lt._Matthew_Maury.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Delmar-Morgan, Edward Locker, 1903-",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Sandrin, Michel",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Charles-Marie_Philippe_de_Kerhallet",
+                    "person": "Kerhallet, Charles Philippe de, 1809-1863",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Père-Lachaise_-_Division_7_-_Tixier_01.jpg?width=300"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Piri_Reis",
+                    "person": "Pirı̂ Reis, -1554?",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Pîrî_Reis_büstü.JPG/200px-Pîrî_Reis_büstü.JPG.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/João_de_Castro",
+                    "person": "Castro, João de, 1500-1548",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Joao_de_Castro.jpg/200px-Joao_de_Castro.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Aḥmad ibn Mājid al-Saʻdī, active 1462-1498",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Duncan, Roger F",
+                    "gender": null,
+                    "count": 4
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "explorer",
+                  "geographer",
+                  "cartographer"
+                ]
+              }
+            },
+            "VK1300-1491": {
+              "id": "VK1300-1491",
+              "subject": "Saving of life and property",
+              "count": 347,
+              "children": {},
+              "subjects": {
+                "id": "VK1300-1491",
+                "subject": "Saving of life and property",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Noble, Dennis L",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Masters, David, 1883-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Middleton, Eric William",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Morris, James Rainstorpe, 1750-1809",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Bulot, Jean",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Farr, Grahame E",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Etheridge, Richard, 1842-1900",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Kimball, Sumner Increase, 1834-1923",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Bennett, Robert F., 1934-",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "James, Joshua, 1826-1902",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VK1250-1299": {
+              "id": "VK1250-1299",
+              "subject": "Shipwrecks and fires",
+              "count": 349,
+              "children": {},
+              "subjects": {
+                "id": "VK1250-1299",
+                "subject": "Shipwrecks and fires",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Jack_Loney",
+                    "person": "Loney, Jack Kenneth",
+                    "gender": "male",
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Robert_F._Marx",
+                    "person": "Marx, Robert F., 1933-",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Linder_and_Bob_Marx_1982.JPG?width=300"
+                  },
+                  {
+                    "url": null,
+                    "person": "Rodgers, Bradley A",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Rushbrook, Frank",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Ingram, C. W. N. (Charles W. N.)",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Lee, E. C. B. (Eric Cuthbert Bernard)",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Richards, Phil",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Charles, Joan",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Pazos, Lino J",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VK381-397": {
+              "id": "VK381-397",
+              "subject": "Signaling",
+              "count": 208,
+              "children": {},
+              "subjects": {
+                "id": "VK381-397",
+                "subject": "Signaling",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VK1299.5-1299.6": {
+              "id": "VK1299.5-1299.6",
+              "subject": "Icebreaking operations",
+              "count": 9,
+              "children": {},
+              "subjects": {
+                "id": "VK1299.5-1299.6",
+                "subject": "Icebreaking operations",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VK588-597": {
+              "id": "VK588-597",
+              "subject": "Marine hydrography.    Hydrographic surveying",
+              "count": 214,
+              "children": {},
+              "subjects": {
+                "id": "VK588-597",
+                "subject": "Marine hydrography.    Hydrographic surveying",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Ingham, A. E. (Alan E.)",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Charles-François_Beautemps-Beaupré",
+                    "person": "Beautemps-Beaupré, Charles François, 1766-1854",
+                    "gender": "male",
+                    "count": 3,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Charles-François_Beautemps-Beaupré.jpg/200px-Charles-François_Beautemps-Beaupré.jpg.jpg"
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VK321-369.8": {
+              "id": "VK321-369.8",
+              "subject": "Harbors.    Ports",
+              "count": 91,
+              "children": {},
+              "subjects": {
+                "id": "VK321-369.8",
+                "subject": "Harbors.    Ports",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Adie, Donald W",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Hinz, Earl R",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VK1500-1661": {
+              "id": "VK1500-1661",
+              "subject": "Pilots and pilotage",
+              "count": 99,
+              "children": {},
+              "subjects": {
+                "id": "VK1500-1661",
+                "subject": "Pilots and pilotage",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Yeadon-Jones, Anne",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VK600-794": {
+              "id": "VK600-794",
+              "subject": "Tide and current tables",
+              "count": 191,
+              "children": {},
+              "subjects": {
+                "id": "VK600-794",
+                "subject": "Tide and current tables",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "VK1-1661",
+            "subject": "Navigation.    Merchant marine",
+            "topPeople": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Austin_M._Knight",
+                "person": "Knight, Austin Melvin, 1854-1927",
+                "gender": "male",
+                "count": 12,
+                "image": "http://en.wikipedia.org/wiki/Special:FilePath/Austin_Melvin_Knight.JPG?width=300"
+              },
+              {
+                "url": null,
+                "person": "House, D. J",
+                "gender": null,
+                "count": 8
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Joshua_Slocum",
+                "person": "Slocum, Joshua, 1844-",
+                "gender": "male",
+                "count": 7,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Joshua_Slocum_cph.3b46344.jpg/200px-Joshua_Slocum_cph.3b46344.jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Danton, G. L",
+                "gender": null,
+                "count": 6
+              },
+              {
+                "url": null,
+                "person": "Roberts, Bob, 1907-",
+                "gender": null,
+                "count": 5
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/James_Gordon_Partridge_Bisset",
+                "person": "Bisset, James, Sir, 1883-1967",
+                "gender": "male",
+                "count": 5,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Thomas_Playford_IV.jpg/200px-Thomas_Playford_IV.jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Coles, K. Adlard (Kaines Adlard)",
+                "gender": null,
+                "count": 5
+              },
+              {
+                "url": null,
+                "person": "Aḥmad ibn Mājid al-Saʻdī, active 1462-1498",
+                "gender": null,
+                "count": 5
+              },
+              {
+                "url": null,
+                "person": "Artof, Susan D",
+                "gender": null,
+                "count": 4
+              },
+              {
+                "url": null,
+                "person": "Phillips, Richard, 1956-",
+                "gender": null,
+                "count": 4
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VG": {
+      "id": "VG",
+      "subject": "Minor services of navies",
+      "count": 0,
+      "children": {
+        "VG20-2029": {
+          "id": "VG20-2029",
+          "subject": "Minor services of navies",
+          "count": 222,
+          "children": {
+            "VG90-95": {
+              "id": "VG90-95",
+              "subject": "Naval aviation",
+              "count": 570,
+              "children": {},
+              "subjects": {
+                "id": "VG90-95",
+                "subject": "Naval aviation",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Thetford, Owen Gordon, 1923-",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Swanborough, Gordon",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Wilson, Eugene Edward, 1887-",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Althoff, William F",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Mersky, Peter B., 1945-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Eric_Brown_(pilot)",
+                    "person": "Brown, Eric Melrose",
+                    "gender": "male",
+                    "count": 3,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Naval_Pilot_Who_Landed_Jet_Plane_on_Carrier._On_3_December_1945,_Lieut_Cdr_Eric_Melrose_Brown,_MBE,_DSC,_RNVR,_Chief_Naval_Test_Pilot,_Landed_a_De_Havilland_Sea_Vampire_Jet_Aircraft_on_the_Flight_Deck_of_the_British_Aircraft_Carrier_HMS_Ocean..jpg/200px-Naval_Pilot_Who_Landed_Jet_Plane_on_Carrier._On_3_December_1945,_Lieut_Cdr_Eric_Melrose_Brown,_MBE,_DSC,_RNVR,_Chief_Naval_Test_Pilot,_Landed_a_De_Havilland_Sea_Vampire_Jet_Aircraft_on_the_Flight_Deck_of_the_British_Aircraft_Carrier_HMS_Ocean..jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Brauner, Marygail K., 1947-",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Sambito, William J",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Larkins, William T., 1922-",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Cagle, Malcolm W",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VG50-55": {
+              "id": "VG50-55",
+              "subject": "Coast guard and coast signal service",
+              "count": 218,
+              "children": {},
+              "subjects": {
+                "id": "VG50-55",
+                "subject": "Coast guard and coast signal service",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Ostrom, Thomas P",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VG100-475": {
+              "id": "VG100-475",
+              "subject": "Medical service",
+              "count": 156,
+              "children": {},
+              "subjects": {
+                "id": "VG100-475",
+                "subject": "Medical service",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VG70-85": {
+              "id": "VG70-85",
+              "subject": "Naval communication by telegraphy, telephone, etc.",
+              "count": 40,
+              "children": {},
+              "subjects": {
+                "id": "VG70-85",
+                "subject": "Naval communication by telegraphy, telephone, etc.",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VG20-25": {
+              "id": "VG20-25",
+              "subject": "Chaplains",
+              "count": 24,
+              "children": {},
+              "subjects": {
+                "id": "VG20-25",
+                "subject": "Chaplains",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VG2020-2029": {
+              "id": "VG2020-2029",
+              "subject": "Recreation and information service",
+              "count": 4,
+              "children": {},
+              "subjects": {
+                "id": "VG2020-2029",
+                "subject": "Recreation and information service",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VG500-505": {
+              "id": "VG500-505",
+              "subject": "Public relations.    Press.    War    correspondents",
+              "count": 7,
+              "children": {},
+              "subjects": {
+                "id": "VG500-505",
+                "subject": "Public relations.    Press.    War    correspondents",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VG2000-2005": {
+              "id": "VG2000-2005",
+              "subject": "Social work.    Social welfare services",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "VG2000-2005",
+                "subject": "Social work.    Social welfare services",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "VG20-2029",
+            "subject": "Minor services of navies",
+            "topPeople": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Kevin_Dockery_(author)",
+                "person": "Dockery, Kevin",
+                "gender": "male",
+                "count": 7
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Howard_E._Wasdin",
+                "person": "Wasdin, Howard E",
+                "gender": "male",
+                "count": 6,
+                "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Seal_of_the_United_States_Department_of_the_Navy_(alternate).svg?width=300"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Osama_bin_Laden",
+                "person": "Bin Laden, Osama, 1957-2011",
+                "gender": "male",
+                "count": 6,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Osama_bin_Laden_portrait.jpg/200px-Osama_bin_Laden_portrait.jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Owen, Mark, 1976?-",
+                "gender": "male",
+                "count": 6
+              },
+              {
+                "url": null,
+                "person": "Halberstadt, Hans",
+                "gender": null,
+                "count": 4
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": [
+              "writer"
+            ]
+          }
+        }
+      },
+      "subjects": null
+    },
+    "V": {
+      "id": "V",
+      "subject": "Naval science (General)",
+      "count": 0,
+      "children": {
+        "V1-995": {
+          "id": "V1-995",
+          "subject": "Naval science (General)",
+          "count": 1895,
+          "children": {
+            "V750-995": {
+              "id": "V750-995",
+              "subject": "War vessels: Construction, armament, etc.",
+              "count": 1698,
+              "children": {},
+              "subjects": {
+                "id": "V750-995",
+                "subject": "War vessels: Construction, armament, etc.",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Antony_Preston",
+                    "person": "Preston, Antony, 1938-",
+                    "gender": "male",
+                    "count": 18
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Norman_Friedman",
+                    "person": "Friedman, Norman, 1946-",
+                    "gender": "male",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "person": "Green, Michael, 1952-",
+                    "gender": null,
+                    "count": 13
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Henry_Trevor_Lenton",
+                    "person": "Lenton, H. T",
+                    "gender": "male",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "person": "Watts, Anthony John",
+                    "gender": null,
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "person": "Rössler, Eberhard",
+                    "gender": "male",
+                    "count": 10
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Richard_Hough",
+                    "person": "Hough, Richard, 1922-1999",
+                    "gender": "male",
+                    "count": 10
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Bernard_Ireland",
+                    "person": "Ireland, Bernard",
+                    "gender": "male",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Terzibaschitsch, Stefan",
+                    "gender": "male",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Bagnasco, Erminio",
+                    "gender": null,
+                    "count": 10
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "historian",
+                  "author",
+                  "writer"
+                ]
+              }
+            },
+            "V25-55": {
+              "id": "V25-55",
+              "subject": "History and antiquities of naval science",
+              "count": 313,
+              "children": {},
+              "subjects": {
+                "id": "V25-55",
+                "subject": "History and antiquities of naval science",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/James_Cable",
+                    "person": "Cable, James, 1920-",
+                    "gender": "male",
+                    "count": 6,
+                    "image": "http://en.wikipedia.org/wiki/Special:FilePath/Flag_of_the_United_Kingdom.svg?width=300"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan",
+                    "person": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alfred_thayer_mahan.jpg/200px-Alfred_thayer_mahan.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Bernard_Brodie_(military_strategist)",
+                    "person": "Brodie, Bernard, 1910-1978",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Herbert_Richmond",
+                    "person": "Richmond, Herbert W. (Herbert William), Sir, 1871-1946",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Naval_Ensign_of_the_United_Kingdom.svg?width=300"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Sergey_Gorshkov",
+                    "person": "Gorshkov, Sergeĭ Georgievich, 1910-",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/SG-Gorshkov.jpg/200px-SG-Gorshkov.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Clark_G._Reynolds",
+                    "person": "Reynolds, Clark G",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Guilmartin, John Francis",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Chester_Starr",
+                    "person": "Starr, Chester G., 1914-",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Masson, Philippe, 1928-",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Alain_Guillerm",
+                    "person": "Guillerm, Alain",
+                    "gender": "male",
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "historian",
+                  "military historian",
+                  "writer"
+                ]
+              }
+            },
+            "V400-695": {
+              "id": "V400-695",
+              "subject": "Naval education",
+              "count": 424,
+              "children": {},
+              "subjects": {
+                "id": "V400-695",
+                "subject": "Naval education",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Edsall, Margaret Horton",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Banning, Kendall, 1879-1944",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Stackelberg, Hans, Freiherr von",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Martínez-Valverde, Carlos",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Videla del Mazo, José María",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "V720-743": {
+              "id": "V720-743",
+              "subject": "Naval life, manners and customs, antiquities, etc.",
+              "count": 137,
+              "children": {},
+              "subjects": {
+                "id": "V720-743",
+                "subject": "Naval life, manners and customs, antiquities, etc.",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Smiley, Sarah",
+                    "gender": "female",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "person": "Robinson, William, active 1805-1836",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Thomas, Walter R",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Sema, Takashi, 1911-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "female",
+                "hasWomen": true,
+                "occupations": []
+              }
+            },
+            "V390-395": {
+              "id": "V390-395",
+              "subject": "Naval research",
+              "count": 84,
+              "children": {},
+              "subjects": {
+                "id": "V390-395",
+                "subject": "Naval research",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "V160-165": {
+              "id": "V160-165",
+              "subject": "Strategy",
+              "count": 87,
+              "children": {},
+              "subjects": {
+                "id": "V160-165",
+                "subject": "Strategy",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Julian_Corbett",
+                    "person": "Corbett, Julian Stafford, Sir, 1854-1922",
+                    "gender": "male",
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan",
+                    "person": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alfred_thayer_mahan.jpg/200px-Alfred_thayer_mahan.jpg.jpg"
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "geopolitician",
+                  "military historian",
+                  "historian"
+                ]
+              }
+            },
+            "V167-178": {
+              "id": "V167-178",
+              "subject": "Tactics",
+              "count": 51,
+              "children": {},
+              "subjects": {
+                "id": "V167-178",
+                "subject": "Tactics",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Julian_Corbett",
+                    "person": "Corbett, Julian Stafford, Sir, 1854-1922,",
+                    "gender": "male",
+                    "count": 4
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "V210-214.5": {
+              "id": "V210-214.5",
+              "subject": "Submarine warfare",
+              "count": 125,
+              "children": {},
+              "subjects": {
+                "id": "V210-214.5",
+                "subject": "Submarine warfare",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Price, Alfred",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "V396-396.5": {
+              "id": "V396-396.5",
+              "subject": "Military oceanography",
+              "count": 13,
+              "children": {},
+              "subjects": {
+                "id": "V396-396.5",
+                "subject": "Military oceanography",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "V399": {
+              "id": "V399",
+              "subject": "Automation in the naval sciences",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "V399",
+                "subject": "Automation in the naval sciences",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "V66-69": {
+              "id": "V66-69",
+              "subject": "Navy clubs",
+              "count": 6,
+              "children": {},
+              "subjects": {
+                "id": "V66-69",
+                "subject": "Navy clubs",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "V1-995",
+            "subject": "Naval science (General)",
+            "topPeople": [
+              {
+                "url": null,
+                "person": "Noel, John Vavasour, 1912-",
+                "gender": null,
+                "count": 18
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Grace_Hopper",
+                "person": "Hopper, Grace Murray",
+                "gender": "female",
+                "count": 15,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Grace_Hopper.jpg/200px-Grace_Hopper.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Hyman_G._Rickover",
+                "person": "Rickover, Hyman George",
+                "gender": "male",
+                "count": 11,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hyman_Rickover_1955.jpg/200px-Hyman_Rickover_1955.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Alfred_Thayer_Mahan",
+                "person": "Mahan, A. T. (Alfred Thayer), 1840-1914",
+                "gender": "male",
+                "count": 9,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Alfred_thayer_mahan.jpg/200px-Alfred_thayer_mahan.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Tsutomu_Sakuma",
+                "person": "Sakuma, Tsutomu, 1879-1910",
+                "gender": "male",
+                "count": 9,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Tsutomu_Sakuma.jpg/200px-Tsutomu_Sakuma.jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Mikhaĭlovskiĭ, A. P",
+                "gender": "male",
+                "count": 8
+              },
+              {
+                "url": null,
+                "person": "Buell, Thomas B",
+                "gender": null,
+                "count": 7
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Eric_Greitens",
+                "person": "Greitens, Eric, 1974-",
+                "gender": "male",
+                "count": 6,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Eric_Greitens_2011-7.jpg/200px-Eric_Greitens_2011-7.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Ivan_Isakov",
+                "person": "Isakov, I. S. (Ivan Stepanovich), 1894-1967",
+                "gender": "male",
+                "count": 6,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/1974_CPA_4359.jpg/200px-1974_CPA_4359.jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Bhagwat, Vishnu, 1939-",
+                "gender": null,
+                "count": 5
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": true,
+            "occupations": [
+              "military officer",
+              "military personnel"
+            ]
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VB": {
+      "id": "VB",
+      "subject": "Naval administration",
+      "count": 0,
+      "children": {
+        "VB15-955": {
+          "id": "VB15-955",
+          "subject": "Naval administration",
+          "count": 307,
+          "children": {
+            "VB310-315": {
+              "id": "VB310-315",
+              "subject": "Officers",
+              "count": 58,
+              "children": {},
+              "subjects": {
+                "id": "VB310-315",
+                "subject": "Officers",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Bartlett, Washington A",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Raupha, Ābadura, 1933-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VB21-124": {
+              "id": "VB21-124",
+              "subject": "By region or country",
+              "count": 44,
+              "children": {},
+              "subjects": {
+                "id": "VB21-124",
+                "subject": "By region or country",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VB170-187": {
+              "id": "VB170-187",
+              "subject": "Civil department",
+              "count": 17,
+              "children": {},
+              "subjects": {
+                "id": "VB170-187",
+                "subject": "Civil department",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VB260-275": {
+              "id": "VB260-275",
+              "subject": "Enlisted personnel",
+              "count": 34,
+              "children": {},
+              "subjects": {
+                "id": "VB260-275",
+                "subject": "Enlisted personnel",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Turner, David Reuben, 1915-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VB320-325": {
+              "id": "VB320-325",
+              "subject": "Minorities, women, etc. in navies",
+              "count": 35,
+              "children": {},
+              "subjects": {
+                "id": "VB320-325",
+                "subject": "Minorities, women, etc. in navies",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Ebbert, Jean",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VB307-309": {
+              "id": "VB307-309",
+              "subject": "Warrant officers",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "VB307-309",
+                "subject": "Warrant officers",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "VB15-955",
+            "subject": "Naval administration",
+            "topPeople": [
+              {
+                "url": null,
+                "person": "Abrashoff, D. Michael",
+                "gender": null,
+                "count": 7
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Alexander_Slidell_Mackenzie",
+                "person": "Mackenzie, Alexander Slidell, 1803-1848",
+                "gender": "male",
+                "count": 4,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Alexander_Slidell_Mackenzie_(1803-1848).jpg/200px-Alexander_Slidell_Mackenzie_(1803-1848).jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Stogdill, Ralph M. (Ralph Melvin), 1904-1978",
+                "gender": null,
+                "count": 3
+              },
+              {
+                "url": null,
+                "person": "Miozzi, O. (Ottorino)",
+                "gender": null,
+                "count": 3
+              },
+              {
+                "url": null,
+                "person": "Shenk, Robert, 1943-",
+                "gender": null,
+                "count": 3
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Gail_Harris_(naval_officer)",
+                "person": "Harris, Gail, 1949-",
+                "gender": "female",
+                "count": 3,
+                "image": "http://commons.wikimedia.org/wiki/Special:FilePath/US_Navy_O6_infobox.svg?width=300"
+              }
+            ],
+            "genderType": "equal",
+            "hasWomen": true,
+            "occupations": [
+              "military officer"
+            ]
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VE": {
+      "id": "VE",
+      "subject": "Marines",
+      "count": 0,
+      "children": {
+        "VE7-500": {
+          "id": "VE7-500",
+          "subject": "Marines",
+          "count": 172,
+          "children": {
+            "VE23-124": {
+              "id": "VE23-124",
+              "subject": "By region or country",
+              "count": 475,
+              "children": {},
+              "subjects": {
+                "id": "VE23-124",
+                "subject": "By region or country",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Al_Smith_(umpire)",
+                    "person": "Smith, Al, 1925-",
+                    "gender": "male",
+                    "count": 6
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Smedley_Butler",
+                    "person": "Butler, Smedley D. (Smedley Darlington), 1881-1940",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/SmedleyButler.jpeg/200px-SmedleyButler.jpeg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Parsons, Edward, 1900-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Bartlett, Merrill L",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Green, Michael, 1952-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Reed, Robert T., 1945-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/John_Basilone",
+                    "person": "Basilone, John, 1916-1945",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/BasiloneUSMC.jpg/200px-BasiloneUSMC.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Nargele, Dominik George",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Martinez, Marco, 1981-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Reed, Jennifer, 1967-",
+                    "gender": null,
+                    "count": 4
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VE160-302": {
+              "id": "VE160-302",
+              "subject": "Drill regulations",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "VE160-302",
+                "subject": "Drill regulations",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VE330-335": {
+              "id": "VE330-335",
+              "subject": "Shooting",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "VE330-335",
+                "subject": "Shooting",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VE430-435": {
+              "id": "VE430-435",
+              "subject": "Training camps",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "VE430-435",
+                "subject": "Training camps",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VE420-425": {
+              "id": "VE420-425",
+              "subject": "Barracks, quarters, etc.",
+              "count": 4,
+              "children": {},
+              "subjects": {
+                "id": "VE420-425",
+                "subject": "Barracks, quarters, etc.",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "VE7-500",
+            "subject": "Marines",
+            "topPeople": [
+              {
+                "url": null,
+                "person": "Estes, Kenneth W",
+                "gender": null,
+                "count": 5
+              },
+              {
+                "url": null,
+                "person": "Heinl, Robert Debs, 1916-",
+                "gender": null,
+                "count": 4
+              },
+              {
+                "url": null,
+                "person": "Thomas, Gerald Carthrae, 1894-",
+                "gender": null,
+                "count": 3
+              }
+            ],
+            "genderType": "equal",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VF": {
+      "id": "VF",
+      "subject": "Naval ordnance",
+      "count": 0,
+      "children": {
+        "VF1-580": {
+          "id": "VF1-580",
+          "subject": "Naval ordnance",
+          "count": 77,
+          "children": {
+            "VF350-375": {
+              "id": "VF350-375",
+              "subject": "Ordnance and arms (General)",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "VF350-375",
+                "subject": "Ordnance and arms (General)",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VF346-348": {
+              "id": "VF346-348",
+              "subject": "Naval weapons systems",
+              "count": 59,
+              "children": {},
+              "subjects": {
+                "id": "VF346-348",
+                "subject": "Naval weapons systems",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Norman_Friedman",
+                    "person": "Friedman, Norman, 1946-",
+                    "gender": "male",
+                    "count": 7
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VF160-302": {
+              "id": "VF160-302",
+              "subject": "Ordnance instructions and drill books",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "VF160-302",
+                "subject": "Ordnance instructions and drill books",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VF21-124": {
+              "id": "VF21-124",
+              "subject": "By region or country",
+              "count": 22,
+              "children": {},
+              "subjects": {
+                "id": "VF21-124",
+                "subject": "By region or country",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VF390-510": {
+              "id": "VF390-510",
+              "subject": "Ordnance material (Ordnance proper)",
+              "count": 20,
+              "children": {},
+              "subjects": {
+                "id": "VF390-510",
+                "subject": "Ordnance material (Ordnance proper)",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VF310-315": {
+              "id": "VF310-315",
+              "subject": "Target practice",
+              "count": 3,
+              "children": {},
+              "subjects": {
+                "id": "VF310-315",
+                "subject": "Target practice",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "VF1-580",
+            "subject": "Naval ordnance",
+            "topPeople": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Howard_Douglas",
+                "person": "Douglas, Howard, Sir, 1776-1861",
+                "gender": "male",
+                "count": 3,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sir_Howard_Douglas.JPG/200px-Sir_Howard_Douglas.JPG.jpg"
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VC": {
+      "id": "VC",
+      "subject": "Naval maintenance",
+      "count": 0,
+      "children": {
+        "VC10-580": {
+          "id": "VC10-580",
+          "subject": "Naval maintenance",
+          "count": 45,
+          "children": {
+            "VC260-268": {
+              "id": "VC260-268",
+              "subject": "Supplies and stores",
+              "count": 99,
+              "children": {},
+              "subjects": {
+                "id": "VC260-268",
+                "subject": "Supplies and stores",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VC280-345": {
+              "id": "VC280-345",
+              "subject": "Clothing and equipment",
+              "count": 69,
+              "children": {},
+              "subjects": {
+                "id": "VC280-345",
+                "subject": "Clothing and equipment",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Roberts, Michael L",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Warner, Jeff",
+                    "gender": null,
+                    "count": 6
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VC270-279": {
+              "id": "VC270-279",
+              "subject": "Equipment of vessels, supplies, allowances, etc.",
+              "count": 25,
+              "children": {},
+              "subjects": {
+                "id": "VC270-279",
+                "subject": "Equipment of vessels, supplies, allowances, etc.",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VC20-258": {
+              "id": "VC20-258",
+              "subject": "Organization of service",
+              "count": 15,
+              "children": {},
+              "subjects": {
+                "id": "VC20-258",
+                "subject": "Organization of service",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VC350-410": {
+              "id": "VC350-410",
+              "subject": "Subsistence.    Provisioning",
+              "count": 35,
+              "children": {},
+              "subjects": {
+                "id": "VC350-410",
+                "subject": "Subsistence.    Provisioning",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VC412-425": {
+              "id": "VC412-425",
+              "subject": "Navy yards and stations.    Shore facilities",
+              "count": 12,
+              "children": {},
+              "subjects": {
+                "id": "VC412-425",
+                "subject": "Navy yards and stations.    Shore facilities",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "VC10-580",
+            "subject": "Naval maintenance",
+            "topPeople": [],
+            "genderType": "equal",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "VD": {
+      "id": "VD",
+      "subject": "Naval personnel",
+      "count": 0,
+      "children": {
+        "VD7-430": {
+          "id": "VD7-430",
+          "subject": "Naval personnel",
+          "count": 11,
+          "children": {
+            "VD21-124": {
+              "id": "VD21-124",
+              "subject": "By region or country",
+              "count": 13,
+              "children": {},
+              "subjects": {
+                "id": "VD21-124",
+                "subject": "By region or country",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VD360-390": {
+              "id": "VD360-390",
+              "subject": "Small arms",
+              "count": 10,
+              "children": {},
+              "subjects": {
+                "id": "VD360-390",
+                "subject": "Small arms",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VD160-302": {
+              "id": "VD160-302",
+              "subject": "Drill regulations",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "VD160-302",
+                "subject": "Drill regulations",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VD330-335": {
+              "id": "VD330-335",
+              "subject": "Shooting",
+              "count": 2,
+              "children": {},
+              "subjects": {
+                "id": "VD330-335",
+                "subject": "Shooting",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "VD400-405": {
+              "id": "VD400-405",
+              "subject": "Small boat service",
+              "count": 2,
+              "children": {},
+              "subjects": {
+                "id": "VD400-405",
+                "subject": "Small boat service",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "VD7-430",
+            "subject": "Naval personnel",
+            "topPeople": [],
+            "genderType": "equal",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}

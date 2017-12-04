@@ -1,0 +1,4030 @@
+{
+  "code": "C",
+  "subject": "Auxiliary Sciences of History (General)",
+  "count": 0,
+  "children": {
+    "CT": {
+      "id": "CT",
+      "subject": "Biography",
+      "count": 0,
+      "children": {
+        "CT21-9999": {
+          "id": "CT21-9999",
+          "subject": "Biography",
+          "count": 460,
+          "children": {
+            "CT210-3150": {
+              "id": "CT210-3150",
+              "subject": "National biography",
+              "count": 21083,
+              "children": {},
+              "subjects": {
+                "id": "CT210-3150",
+                "subject": "National biography",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Albert_Schweitzer",
+                    "person": "Schweitzer, Albert, 1875-1965",
+                    "gender": "male",
+                    "count": 139,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Bundesarchiv_Bild_183-D0116-0041-019,_Albert_Schweitzer.jpg/200px-Bundesarchiv_Bild_183-D0116-0041-019,_Albert_Schweitzer.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis",
+                    "person": "Onassis, Jacqueline Kennedy, 1929-1994",
+                    "gender": "female",
+                    "count": 91,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/JBK_In_Ft_Worth_(11-22-63).jpg/200px-JBK_In_Ft_Worth_(11-22-63).jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Sakanishi, Shiho, 1896-1976",
+                    "gender": "female",
+                    "count": 85,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sakanishi_Shiho.JPG/200px-Sakanishi_Shiho.JPG.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Andrew_Carnegie",
+                    "person": "Carnegie, Andrew, 1835-1919",
+                    "gender": "male",
+                    "count": 59,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Andrew_Carnegie,_three-quarter_length_portrait,_seated,_facing_slightly_left,_1913-crop.jpg/200px-Andrew_Carnegie,_three-quarter_length_portrait,_seated,_facing_slightly_left,_1913-crop.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Henry_Ford",
+                    "person": "Ford, Henry, 1863-1947",
+                    "gender": "male",
+                    "count": 49,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Henry_ford_1919.jpg/200px-Henry_ford_1919.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Howard_Hughes",
+                    "person": "Hughes, Howard, 1905-1976",
+                    "gender": "male",
+                    "count": 30,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Howard_Hughes_1938.jpg/200px-Howard_Hughes_1938.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/John_D._Rockefeller",
+                    "person": "Rockefeller, John D. (John Davison), 1839-1937",
+                    "gender": "male",
+                    "count": 30,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/John_D._Rockefeller_1885.jpg/200px-John_D._Rockefeller_1885.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Frantz_Fanon",
+                    "person": "Fanon, Frantz, 1925-1961",
+                    "gender": "male",
+                    "count": 29,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Frantzfanonpjwproductions.jpg/200px-Frantzfanonpjwproductions.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Kaspar_Hauser",
+                    "person": "Hauser, Kaspar, 1812-1833",
+                    "gender": "male",
+                    "count": 29,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kaspar_hauser.jpg/200px-Kaspar_hauser.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Ralph_Moody_(author)",
+                    "person": "Moody, Ralph, 1898-1982",
+                    "gender": "male",
+                    "count": 27
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": [
+                  "entrepreneur",
+                  "writer",
+                  "journalist",
+                  "philanthropist",
+                  "business magnate",
+                  "industrialist",
+                  "philosopher",
+                  "engineer",
+                  "inventor"
+                ]
+              }
+            },
+            "CT3200-9999": {
+              "id": "CT3200-9999",
+              "subject": "Biography.  By subject",
+              "count": 10,
+              "children": {
+                "CT3200-3830": {
+                  "id": "CT3200-3830",
+                  "subject": "Biography of women (Collective)",
+                  "count": 1302,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT3200-3830",
+                    "subject": "Biography of women (Collective)",
+                    "topPeople": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Liu_Xiang_(scholar)",
+                        "person": "Liu, Xiang, 77 B.C.-6 B.C",
+                        "gender": "male",
+                        "count": 14,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Liu_Xiang_(Han_scholar).PNG/200px-Liu_Xiang_(Han_scholar).PNG.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Lydia_Maria_Child",
+                        "person": "Child, Lydia Maria, 1802-1880",
+                        "gender": "female",
+                        "count": 9,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Lydia_Maria_Child_engraving.jpg/200px-Lydia_Maria_Child_engraving.jpg.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Sarah_Knowles_Bolton",
+                        "person": "Bolton, Sarah Knowles, 1841-1916",
+                        "gender": "female",
+                        "count": 6,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sarah_Knowles_Bolton.jpg/200px-Sarah_Knowles_Bolton.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Shirley, Gayle Corbett",
+                        "gender": null,
+                        "count": 6
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Gamaliel_Bradford_(biographer)",
+                        "person": "Bradford, Gamaliel, 1863-1932",
+                        "gender": "male",
+                        "count": 5,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gamaliel_Bradford.jpg/200px-Gamaliel_Bradford.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Gómez, Mathilde",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Sickels, Eleanor Maria, 1894-",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Ferris, Helen Josephine, 1890-1969",
+                        "gender": "female",
+                        "count": 4
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/José_Luis_de_Vilallonga",
+                        "person": "Vilallonga, José Luis de",
+                        "gender": "male",
+                        "count": 4,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Audrey_Hepburn_amb_Vilallonga.jpg/200px-Audrey_Hepburn_amb_Vilallonga.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Sosa de Newton, Lily",
+                        "gender": null,
+                        "count": 4
+                      }
+                    ],
+                    "genderType": "equal",
+                    "hasWomen": true,
+                    "occupations": [
+                      "writer",
+                      "poet",
+                      "historian",
+                      "journalist"
+                    ]
+                  }
+                },
+                "CT9960-9998": {
+                  "id": "CT9960-9998",
+                  "subject": "Other miscellaneous groups",
+                  "count": 367,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT9960-9998",
+                    "subject": "Other miscellaneous groups",
+                    "topPeople": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Vasily_Peskov",
+                        "person": "Peskov, V. (Vasiliĭ)",
+                        "gender": "male",
+                        "count": 8,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vasiliy_Peskov_-_MIBF_2011_-_2.jpg/200px-Vasiliy_Peskov_-_MIBF_2011_-_2.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Fournier-Aubry, Fernand",
+                        "gender": "male",
+                        "count": 6
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Jørgen_Jørgensen",
+                        "person": "Jürgensen, Jørgen, 1780-",
+                        "gender": "male",
+                        "count": 6,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Jørgen_Jørgensen_(Eckersberg).jpg/200px-Jørgen_Jørgensen_(Eckersberg).jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Arrington, Stephen Lee",
+                        "gender": null,
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "person": "Beattie, John, 1951-",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Lykov family",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Weeks, David Joseph, 1944-",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Tansey, Thomas J",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Alfred_d'Orsay",
+                        "person": "Orsay, Alfred Guillaume Gabriel, comte d', 1801-1852",
+                        "gender": "male",
+                        "count": 3,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Alfred_Guillaume_Gabriel.jpg/200px-Alfred_Guillaume_Gabriel.jpg.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Ben_Weider",
+                        "person": "Weider, Ben, 1923-2008",
+                        "gender": "male",
+                        "count": 3,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/BenWeiderPortrait.jpg/200px-BenWeiderPortrait.jpg.jpg"
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                },
+                "CT3990": {
+                  "id": "CT3990",
+                  "subject": "Academicians.  Scholars. Savants",
+                  "count": 1055,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT3990",
+                    "subject": "Academicians.  Scholars. Savants",
+                    "topPeople": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Hu_Shih",
+                        "person": "Hu, Shi, 1891-1962",
+                        "gender": "male",
+                        "count": 196,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hu_Shi.jpg/200px-Hu_Shi.jpg.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Ji_Xianlin",
+                        "person": "Ji, Xianlin",
+                        "gender": "male",
+                        "count": 68,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ji_Xianlin_1952.jpg/200px-Ji_Xianlin_1952.jpg.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Zhang_Binglin",
+                        "person": "Zhang, Taiyan, 1868-1936",
+                        "gender": "male",
+                        "count": 54,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Zhangtaiyan1899.jpg/200px-Zhangtaiyan1899.jpg.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Guo_Moruo",
+                        "person": "Guo, Moruo, 1892-1978",
+                        "gender": "male",
+                        "count": 29,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Guomoruo.JPG/200px-Guomoruo.JPG.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Chen, Yuan, 1880-1971",
+                        "gender": null,
+                        "count": 23
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Raymond_Aron",
+                        "person": "Aron, Raymond, 1905-1983",
+                        "gender": "male",
+                        "count": 23,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Raymond_Aron_(1966).jpg/200px-Raymond_Aron_(1966).jpg.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Ch'ien_Mu",
+                        "person": "Qian, Mu, 1895-",
+                        "gender": "male",
+                        "count": 18,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Qian_Mu.jpg/200px-Qian_Mu.jpg.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Wu_Mi",
+                        "person": "Wu, Mi, 1894-1978",
+                        "gender": "male",
+                        "count": 14
+                      },
+                      {
+                        "url": null,
+                        "person": "He, Xin, 1949-",
+                        "gender": null,
+                        "count": 13
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Yuen_Ren_Chao",
+                        "person": "Chao, Yuen Ren, 1892-1982",
+                        "gender": "male",
+                        "count": 12,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zhao_Yuanren.jpg/200px-Zhao_Yuanren.jpg.jpg"
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": false,
+                    "occupations": [
+                      "linguist",
+                      "historian",
+                      "philosopher",
+                      "professor",
+                      "journalist",
+                      "sociologist",
+                      "writer"
+                    ]
+                  }
+                },
+                "CT9999": {
+                  "id": "CT9999",
+                  "subject": "Blank books for personal records, diaries, etc.",
+                  "count": 9,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT9999",
+                    "subject": "Blank books for personal records, diaries, etc.",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CT3200-9999",
+                "subject": "Biography.  By subject",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Ruan_Yuan",
+                    "person": "Ruan, Yuan, 1764-1849",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/阮元.jpg/200px-阮元.jpg.jpg"
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CT93-206": {
+              "id": "CT93-206",
+              "subject": "General collective biography",
+              "count": 2352,
+              "children": {
+                "CT206": {
+                  "id": "CT206",
+                  "subject": "Portraits",
+                  "count": 4,
+                  "children": {},
+                  "subjects": {
+                    "id": "CT206",
+                    "subject": "Portraits",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CT93-206",
+                "subject": "General collective biography",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Pierre_Bayle",
+                    "person": "Bayle, Pierre, 1647-1706",
+                    "gender": "male",
+                    "count": 16,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Pierre_Bayle_2.png/200px-Pierre_Bayle_2.png.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Elbert_Hubbard",
+                    "person": "Hubbard, Elbert, 1856-1915",
+                    "gender": "male",
+                    "count": 12,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Elbert_Hubbard_-_Project_Gutenberg_eText_12933.jpg/200px-Elbert_Hubbard_-_Project_Gutenberg_eText_12933.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Alistair_Cooke",
+                    "person": "Cooke, Alistair, 1908-2004",
+                    "gender": "male",
+                    "count": 10,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alistair_Cooke,_head-and-shoulders_portrait,_facing_front,_gesturing_with_left_hand,_during_interview,_March_18,_1974.jpg/200px-Alistair_Cooke,_head-and-shoulders_portrait,_facing_front,_gesturing_with_left_hand,_during_interview,_March_18,_1974.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Hippolyte_Castille",
+                    "person": "Castille, Hippolyte, 1820-1886",
+                    "gender": "male",
+                    "count": 8
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Gamaliel_Bradford_(biographer)",
+                    "person": "Bradford, Gamaliel, 1863-1932",
+                    "gender": "male",
+                    "count": 8,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gamaliel_Bradford.jpg/200px-Gamaliel_Bradford.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Lytton_Strachey",
+                    "person": "Strachey, Lytton, 1880-1932",
+                    "gender": "male",
+                    "count": 8,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Carrington_-_Strachey.jpg/200px-Carrington_-_Strachey.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Thomas, Joseph, 1811-1891",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Wallace, Archer, 1884-",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Enzo_Biagi",
+                    "person": "Biagi, Enzo, 1920-2007",
+                    "gender": "male",
+                    "count": 6,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Enzo_biagi.jpg/200px-Enzo_biagi.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Hermann_Hagedorn",
+                    "person": "Hagedorn, Hermann, 1882-1964",
+                    "gender": "male",
+                    "count": 5
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "writer",
+                  "journalist",
+                  "poet",
+                  "biographer",
+                  "philosopher",
+                  "literary critic",
+                  "television presenter",
+                  "screenwriter"
+                ]
+              }
+            },
+            "CT21-22": {
+              "id": "CT21-22",
+              "subject": "Biography as an art or literary form",
+              "count": 302,
+              "children": {},
+              "subjects": {
+                "id": "CT21-22",
+                "subject": "Biography as an art or literary form",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Leon_Edel",
+                    "person": "Edel, Leon, 1907-1997",
+                    "gender": "male",
+                    "count": 7
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Catherine_Drinker_Bowen",
+                    "person": "Bowen, Catherine Drinker, 1897-1973",
+                    "gender": "female",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Catherine_Drinker_Bowen_1944.jpg/200px-Catherine_Drinker_Bowen_1944.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Sidney_Lee",
+                    "person": "Lee, Sidney, Sir, 1859-1926",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sidney_Lee_002.jpg/200px-Sidney_Lee_002.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Rollyson, Carl E. (Carl Edmund)",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/John_A._Garraty",
+                    "person": "Garraty, John A. (John Arthur), 1920-2007",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/William_Roscoe_Thayer",
+                    "person": "Thayer, William Roscoe, 1859-1923",
+                    "gender": "male",
+                    "count": 3,
+                    "image": "http://en.wikipedia.org/wiki/Special:FilePath/William_Roscoe_Thayer_1915_circa_uncropped.jpg?width=300"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Paul_Murray_Kendall",
+                    "person": "Kendall, Paul Murray",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Cockshut, A. O. J",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Zimmerman, William, 1941-",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Johnston, James Chapman, 1875-1927",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": [
+                  "biographer",
+                  "historian",
+                  "literary critic"
+                ]
+              }
+            },
+            "CT31-83": {
+              "id": "CT31-83",
+              "subject": "History of biographical literature.  Lives of biographers",
+              "count": 105,
+              "children": {},
+              "subjects": {
+                "id": "CT31-83",
+                "subject": "History of biographical literature.  Lives of biographers",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Merrill, Dana Kinsman, 1890-",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Donald_Alfred_Stauffer",
+                    "person": "Stauffer, Donald A. (Donald Alfred), 1902-1952",
+                    "gender": "male",
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "CT21-9999",
+            "subject": "Biography",
+            "topPeople": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Philippe_Lejeune",
+                "person": "Lejeune, Philippe, 1938-",
+                "gender": "male",
+                "count": 7
+              },
+              {
+                "url": null,
+                "person": "Selling, Bernard",
+                "gender": null,
+                "count": 6
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Georg_Misch",
+                "person": "Misch, Georg, 1878-1965",
+                "gender": "male",
+                "count": 4
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Roland_Barthes",
+                "person": "Barthes, Roland",
+                "gender": "male",
+                "count": 4,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Roland_Barthes_circa_1970.jpg/200px-Roland_Barthes_circa_1970.jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Daniel, Lois",
+                "gender": null,
+                "count": 4
+              },
+              {
+                "url": null,
+                "person": "Pascal, Roy, 1904-",
+                "gender": "male",
+                "count": 3
+              },
+              {
+                "url": null,
+                "person": "Porter, Roger J., 1936-",
+                "gender": null,
+                "count": 3
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Nancy_K._Miller",
+                "person": "Miller, Nancy K., 1941-",
+                "gender": "female",
+                "count": 3
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Arthur_Melville_Clark",
+                "person": "Clark, Arthur Melville, 1895-",
+                "gender": "male",
+                "count": 3
+              },
+              {
+                "url": null,
+                "person": "Matthews, William, 1905- ",
+                "gender": null,
+                "count": 3
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": true,
+            "occupations": [
+              "sociologist",
+              "philosopher",
+              "university teacher",
+              "linguist",
+              "literary critic"
+            ]
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CS": {
+      "id": "CS",
+      "subject": "Genealogy",
+      "count": 0,
+      "children": {
+        "CS1-3090": {
+          "id": "CS1-3090",
+          "subject": "Genealogy",
+          "count": 1016,
+          "children": {
+            "CS42-2209": {
+              "id": "CS42-2209",
+              "subject": "By region or country",
+              "count": 54091,
+              "children": {},
+              "subjects": {
+                "id": "CS42-2209",
+                "subject": "By region or country",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Smith family",
+                    "gender": null,
+                    "count": 348
+                  },
+                  {
+                    "url": null,
+                    "person": "Brown family",
+                    "gender": null,
+                    "count": 253
+                  },
+                  {
+                    "url": null,
+                    "person": "Johnson family",
+                    "gender": null,
+                    "count": 224
+                  },
+                  {
+                    "url": null,
+                    "person": "Miller family",
+                    "gender": null,
+                    "count": 194
+                  },
+                  {
+                    "url": null,
+                    "person": "Jones family",
+                    "gender": null,
+                    "count": 185
+                  },
+                  {
+                    "url": null,
+                    "person": "Clark family",
+                    "gender": null,
+                    "count": 178
+                  },
+                  {
+                    "url": null,
+                    "person": "Davis family",
+                    "gender": null,
+                    "count": 174
+                  },
+                  {
+                    "url": null,
+                    "person": "Williams family",
+                    "gender": null,
+                    "count": 165
+                  },
+                  {
+                    "url": null,
+                    "person": "Anderson family",
+                    "gender": null,
+                    "count": 161
+                  },
+                  {
+                    "url": null,
+                    "person": "Wilson family",
+                    "gender": null,
+                    "count": 150
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CS2300-3090": {
+              "id": "CS2300-3090",
+              "subject": "Personal and family names",
+              "count": 2816,
+              "children": {},
+              "subjects": {
+                "id": "CS2300-3090",
+                "subject": "Personal and family names",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Hébert, Casimir, 1879-",
+                    "gender": null,
+                    "count": 25
+                  },
+                  {
+                    "url": null,
+                    "person": "Lansky, Bruce",
+                    "gender": "male",
+                    "count": 22
+                  },
+                  {
+                    "url": null,
+                    "person": "Smith, Elsdon Coles, 1903-",
+                    "gender": null,
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "person": "Ó hÓgáin, Dáithí, 1949-",
+                    "gender": null,
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "person": "Mergnac, M. O. (Marie-Odile), 1958-",
+                    "gender": null,
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "person": "Rosenkrantz, Linda",
+                    "gender": null,
+                    "count": 11
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Edward_MacLysaght",
+                    "person": "MacLysaght, Edward",
+                    "gender": "male",
+                    "count": 11
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Alfred_J._Kolatch",
+                    "person": "Kolatch, Alfred J., 1916-",
+                    "gender": "male",
+                    "count": 11
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Tom_Glazer",
+                    "person": "Glazer, Tom",
+                    "gender": "male",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Bardsley, Charles Wareing Endell, 1843-1898",
+                    "gender": null,
+                    "count": 10
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CS38-39": {
+              "id": "CS38-39",
+              "subject": "Family history covering more than one country",
+              "count": 89,
+              "children": {},
+              "subjects": {
+                "id": "CS38-39",
+                "subject": "Family history covering more than one country",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CS23-35": {
+              "id": "CS23-35",
+              "subject": "Genealogical lists, etc., covering more than one country",
+              "count": 163,
+              "children": {},
+              "subjects": {
+                "id": "CS23-35",
+                "subject": "Genealogical lists, etc., covering more than one country",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Starr, Brian Daniel",
+                    "gender": null,
+                    "count": 13
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Ghislain_de_Diesbach",
+                    "person": "Diesbach, Ghislain de",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Paris_-_Salon_du_livre_et_de_la_famille_-_Ghislain_de_Diesbach_-_1.jpg/200px-Paris_-_Salon_du_livre_et_de_la_famille_-_Ghislain_de_Diesbach_-_1.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Smith, Clifford Neal",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Jacques_Arnold",
+                    "person": "Arnold, Jacques, 1947-",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Bona_Arsenault",
+                    "person": "Arsenault, Bona",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Zubatsky, David S., 1939-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "politician"
+                ]
+              }
+            }
+          },
+          "subjects": {
+            "id": "CS1-3090",
+            "subject": "Genealogy",
+            "topPeople": [
+              {
+                "url": null,
+                "person": "Pedersen, Tana L., 1973-",
+                "gender": null,
+                "count": 11
+              },
+              {
+                "url": null,
+                "person": "Helm, Matthew",
+                "gender": null,
+                "count": 10
+              },
+              {
+                "url": null,
+                "person": "McClure, Rhonda R",
+                "gender": null,
+                "count": 9
+              },
+              {
+                "url": null,
+                "person": "Crowe, Elizabeth Powell",
+                "gender": null,
+                "count": 9
+              },
+              {
+                "url": null,
+                "person": "Nichols, Elizabeth L",
+                "gender": null,
+                "count": 7
+              },
+              {
+                "url": null,
+                "person": "Everton, George B",
+                "gender": null,
+                "count": 7
+              },
+              {
+                "url": null,
+                "person": "Morgan, George G., 1952-",
+                "gender": null,
+                "count": 7
+              },
+              {
+                "url": null,
+                "person": "Doane, Gilbert Harry, 1897-1980",
+                "gender": null,
+                "count": 6
+              },
+              {
+                "url": null,
+                "person": "Clifford, Karen",
+                "gender": null,
+                "count": 6
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/L._G._Pine",
+                "person": "Pine, L. G. (Leslie Gilbert), 1907-",
+                "gender": "male",
+                "count": 6
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CR": {
+      "id": "CR",
+      "subject": "Heraldry",
+      "count": 0,
+      "children": {
+        "CR1-6305": {
+          "id": "CR1-6305",
+          "subject": "Heraldry",
+          "count": 351,
+          "children": {
+            "CR101-115": {
+              "id": "CR101-115",
+              "subject": "Flags, banners, and standards",
+              "count": 612,
+              "children": {},
+              "subjects": {
+                "id": "CR101-115",
+                "subject": "Flags, banners, and standards",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Evans, I. O. (Idrisyn Oliver), 1894-",
+                    "gender": "male",
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Moss, James Alfred, 1872-",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Betsy_Ross",
+                    "person": "Ross, Betsy, 1752-1836",
+                    "gender": "female",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RossBetsy.jpg/200px-RossBetsy.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Pedersen, Christian Fogd",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Chapin, Howard M., 1887-1940",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Gordon_Campbell_(Royal_Navy_officer)",
+                    "person": "Campbell, Gordon, 1886-1953",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gordon_Campbell_VC_IWM_Q_18802.jpg/200px-Gordon_Campbell_VC_IWM_Q_18802.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Cannon, Devereaux D., 1954-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Ide, Emily Katharine",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Kannik, Preben",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Francisco_de_Miranda",
+                    "person": "Miranda, Francisco de, 1750-1816",
+                    "gender": "male",
+                    "count": 3,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rouget_-_François_Miranda,_général_de_division_à_l'armée_du_Nord_en_1792_(1756-1816).jpg/200px-Rouget_-_François_Miranda,_général_de_division_à_l'armée_du_Nord_en_1792_(1756-1816).jpg.jpg"
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": [
+                  "translator",
+                  "politician"
+                ]
+              }
+            },
+            "CR4501-6305": {
+              "id": "CR4501-6305",
+              "subject": "Chivalry and knighthood (Orders, decorations, etc.)",
+              "count": 345,
+              "children": {
+                "CR4547-4553": {
+                  "id": "CR4547-4553",
+                  "subject": "Ceremonials, pageants, tournaments, etc.",
+                  "count": 25,
+                  "children": {},
+                  "subjects": {
+                    "id": "CR4547-4553",
+                    "subject": "Ceremonials, pageants, tournaments, etc.",
+                    "topPeople": [
+                      {
+                        "url": null,
+                        "person": "Price, Brian R",
+                        "gender": null,
+                        "count": 3
+                      }
+                    ],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                },
+                "CR4571-4595": {
+                  "id": "CR4571-4595",
+                  "subject": "Duels and dueling",
+                  "count": 128,
+                  "children": {},
+                  "subjects": {
+                    "id": "CR4571-4595",
+                    "subject": "Duels and dueling",
+                    "topPeople": [
+                      {
+                        "url": null,
+                        "person": "Landale, David, Esq",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Lorenzo_Sabine",
+                        "person": "Sabine, Lorenzo, 1803-1877",
+                        "gender": "male",
+                        "count": 3
+                      },
+                      {
+                        "url": null,
+                        "person": "Possevino, Giovanni Battista, 1520-1549",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": null,
+                        "person": "Bryson, Frederick Robertson, 1878-1962",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/James_Landale",
+                        "person": "Landale, James",
+                        "gender": "male",
+                        "count": 3
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                },
+                "CR4651-6305": {
+                  "id": "CR4651-6305",
+                  "subject": "Orders, etc.",
+                  "count": 1672,
+                  "children": {},
+                  "subjects": {
+                    "id": "CR4651-6305",
+                    "subject": "Orders, etc.",
+                    "topPeople": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Laurent_Dailliez",
+                        "person": "Dailliez, Laurent",
+                        "gender": "male",
+                        "count": 10
+                      },
+                      {
+                        "url": null,
+                        "person": "Peters, D. I. (Dmitriĭ Igorevich)",
+                        "gender": null,
+                        "count": 9
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Alfonso_de_Ceballos-Escalera_y_Gila",
+                        "person": "Ceballos-Escalera y Gila, Alfonso, marqués de la Floresta, 1957-",
+                        "gender": "male",
+                        "count": 9,
+                        "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Great_Coat_of_Arms_of_the_Marquess_of_La_Floresta.svg?width=300"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Georges_Bordonove",
+                        "person": "Bordonove, Georges",
+                        "gender": "male",
+                        "count": 6
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Vicente_de_Cadenas_y_Vicent",
+                        "person": "Cadenas y Vicent, Vicente de",
+                        "gender": "male",
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "person": "Kuznet︠s︡ov, A. A. (Aleksandr Aleksandrovich), kandidat biologicheskikh nauk",
+                        "gender": null,
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "person": "Carteron, Gabriel",
+                        "gender": null,
+                        "count": 5
+                      },
+                      {
+                        "url": null,
+                        "person": "Joslin, Edward C",
+                        "gender": null,
+                        "count": 5
+                      },
+                      {
+                        "url": null,
+                        "person": "Nicholson, Helen J., 1960-",
+                        "gender": "female",
+                        "count": 5
+                      },
+                      {
+                        "url": null,
+                        "person": "Petiet, Claude",
+                        "gender": null,
+                        "count": 5
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": true,
+                    "occupations": [
+                      "historian"
+                    ]
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CR4501-6305",
+                "subject": "Chivalry and knighthood (Orders, decorations, etc.)",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Christopher_Gravett",
+                    "person": "Gravett, Christopher, 1951-",
+                    "gender": "male",
+                    "count": 9
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Ramon_Llull",
+                    "person": "Llull, Ramon, 1232?-1316",
+                    "gender": "male",
+                    "count": 8,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Ramon_Llull.jpg/200px-Ramon_Llull.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Starr, Brian Daniel",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Richard_Barber",
+                    "person": "Barber, Richard W",
+                    "gender": "male",
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Macdonald, Fiona, 1958-",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Hieronymussen, Poul Ohm",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Wang_Hao_(swimmer)",
+                    "person": "Wang, Yonghao",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Geoffroi_de_Charny",
+                    "person": "Charny, Geoffroi de, -1356",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Eduard3_Charny.jpg/200px-Eduard3_Charny.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Catherine, of Alexandria, Saint",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Cardini, Franco",
+                    "gender": "male",
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "writer",
+                  "medievalist"
+                ]
+              }
+            },
+            "CR191-1020": {
+              "id": "CR191-1020",
+              "subject": "Public and official heraldry",
+              "count": 880,
+              "children": {},
+              "subjects": {
+                "id": "CR191-1020",
+                "subject": "Public and official heraldry",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "McAuliffe, Emily",
+                    "gender": null,
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "person": "Feeney, Kathy, 1954-",
+                    "gender": null,
+                    "count": 8
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Wilfrid_Scott-Giles",
+                    "person": "Scott-Giles, C. Wilfrid (Charles Wilfrid), 1893-",
+                    "gender": "male",
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Froger, Michel",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Soboleva, N. A. (Nadezhda Aleksandrovna)",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Thomas_Woodcock_(officer_of_arms)",
+                    "person": "Woodcock, Thomas",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Thomas_Woodcock.jpg/200px-Thomas_Woodcock.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Kaganiec, Małgorzata",
+                    "gender": "female",
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Herrera Casado, Antonio",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Antonio_Herrera_Casado_en_2013.jpg/200px-Antonio_Herrera_Casado_en_2013.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "John, Herwig",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Sateren, Shelley Swanson",
+                    "gender": null,
+                    "count": 4
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": [
+                  "genealogist",
+                  "historian"
+                ]
+              }
+            },
+            "CR1179-3395": {
+              "id": "CR1179-3395",
+              "subject": "Family heraldry",
+              "count": 683,
+              "children": {},
+              "subjects": {
+                "id": "CR1179-3395",
+                "subject": "Family heraldry",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Siebmacher, Johann, -1611",
+                    "gender": "male",
+                    "count": 20
+                  },
+                  {
+                    "url": null,
+                    "person": "Pardoe, Rosemary Anne",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Zieber, Eugene",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Palizzolo Gravina, V. (Vicenzo)",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Bernard_Burke",
+                    "person": "Burke, Bernard, 1814-1892",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ulster_Bernard_Burke_Image.jpg/200px-Ulster_Bernard_Burke_Image.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Hervé_Pinoteau",
+                    "person": "Pinoteau, Hervé",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Hozier, Charles d', 1640-1732",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/James_Balfour_Paul",
+                    "person": "Paul, James Balfour, Sir, 1846-1931",
+                    "gender": "male",
+                    "count": 3,
+                    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_Arms_of_the_Court_of_the_Lord_Lyon.svg?width=300"
+                  },
+                  {
+                    "url": null,
+                    "person": "Raneke, Jan, 1914-",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Crozier, William Armstrong, 1864-1913,",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "genealogist",
+                  "heraldist"
+                ]
+              }
+            },
+            "CR3499-4420": {
+              "id": "CR3499-4420",
+              "subject": "Titles of honor, rank, precedence, etc.",
+              "count": 171,
+              "children": {},
+              "subjects": {
+                "id": "CR3499-4420",
+                "subject": "Titles of honor, rank, precedence, etc.",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/John_Selden",
+                    "person": "Selden, John, 1584-1654",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/John_Selden_from_NPG_cleaned.jpg/200px-John_Selden_from_NPG_cleaned.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Measures, Howard, 1894-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Montague-Smith, Patrick W",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Dioudonnat, Pierre-Marie",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/L._G._Pine",
+                    "person": "Pine, L. G. (Leslie Gilbert), 1907-",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Shepelev, Leonid Efimovich",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "writer"
+                ]
+              }
+            },
+            "CR4480-4485": {
+              "id": "CR4480-4485",
+              "subject": "Royalty.  Insignia.  Regalia, crown and coronets, etc.",
+              "count": 50,
+              "children": {},
+              "subjects": {
+                "id": "CR4480-4485",
+                "subject": "Royalty.  Insignia.  Regalia, crown and coronets, etc.",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Holmes, Martin Rivington, 1905-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CR51-79": {
+              "id": "CR51-79",
+              "subject": "Crests, monograms, devices, badges, mottoes, etc.",
+              "count": 138,
+              "children": {},
+              "subjects": {
+                "id": "CR51-79",
+                "subject": "Crests, monograms, devices, badges, mottoes, etc.",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Elvin, Charles Norton",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CR1101-1131": {
+              "id": "CR1101-1131",
+              "subject": "Ecclesiastical and sacred heraldry",
+              "count": 53,
+              "children": {},
+              "subjects": {
+                "id": "CR1101-1131",
+                "subject": "Ecclesiastical and sacred heraldry",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "McCarthy, Michael Francis",
+                    "gender": null,
+                    "count": 6
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "CR1-6305",
+            "subject": "Heraldry",
+            "topPeople": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Charles_Boutell",
+                "person": "Boutell, Charles, 1812-1877",
+                "gender": "male",
+                "count": 9,
+                "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Charles_Boutell01.gif?width=300"
+              },
+              {
+                "url": null,
+                "person": "Franklyn, Julian, 1899-1970",
+                "gender": null,
+                "count": 8
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Arthur_Charles_Fox-Davies",
+                "person": "Fox-Davies, Arthur Charles, 1871-1928",
+                "gender": "male",
+                "count": 8,
+                "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arms_of_Fox-Davies_of_Coalbrookdale.jpg?width=300"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Anthony_Wagner",
+                "person": "Wagner, Anthony, 1908-1995",
+                "gender": "male",
+                "count": 7,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Anthony_Wagner_Richmond_Herald.jpg/200px-Anthony_Wagner_Richmond_Herald.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Ottfried_Neubecker",
+                "person": "Neubecker, Ottfried, 1908-",
+                "gender": "male",
+                "count": 6
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Michel_Pastoureau",
+                "person": "Pastoureau, Michel, 1947-",
+                "gender": "male",
+                "count": 5,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Michel_Pastoureau.jpg/200px-Michel_Pastoureau.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/L._G._Pine",
+                "person": "Pine, L. G. (Leslie Gilbert), 1907-",
+                "gender": "male",
+                "count": 4
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Vicente_de_Cadenas_y_Vicent",
+                "person": "Cadenas y Vicent, Vicente de",
+                "gender": "male",
+                "count": 4
+              },
+              {
+                "url": null,
+                "person": "Friar, Stephen",
+                "gender": null,
+                "count": 4
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/John_Brooke-Little",
+                "person": "Brooke-Little, J. P. (John Philip)",
+                "gender": "male",
+                "count": 3,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Brooke-Little_at_Clayesmore.jpg/200px-Brooke-Little_at_Clayesmore.jpg.jpg"
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": [
+              "genealogist",
+              "writer",
+              "lawyer"
+            ]
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CB": {
+      "id": "CB",
+      "subject": "History of Civilization",
+      "count": 0,
+      "children": {
+        "CB3-482": {
+          "id": "CB3-482",
+          "subject": "History of Civilization",
+          "count": 2900,
+          "children": {
+            "CB195-281": {
+              "id": "CB195-281",
+              "subject": "Civilization and race",
+              "count": 2502,
+              "children": {},
+              "subjects": {
+                "id": "CB195-281",
+                "subject": "Civilization and race",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Donald_Kagan",
+                    "person": "Kagan, Donald",
+                    "gender": "male",
+                    "count": 28,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Dkaganbiopic.png/200px-Dkaganbiopic.png.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Arthur_de_Gobineau",
+                    "person": "Gobineau, Arthur, comte de, 1816-1882",
+                    "gender": "male",
+                    "count": 23,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Arthur_de_Gobineau.jpg/200px-Arthur_de_Gobineau.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Jackson_J._Spielvogel",
+                    "person": "Spielvogel, Jackson J., 1939-",
+                    "gender": "male",
+                    "count": 19
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Mark_Kishlansky",
+                    "person": "Kishlansky, Mark A",
+                    "gender": "male",
+                    "count": 18,
+                    "image": "http://en.wikipedia.org/wiki/Special:FilePath/Mark_A._Kishlansky.JPG?width=300"
+                  },
+                  {
+                    "url": null,
+                    "person": "Perry, Marvin",
+                    "gender": null,
+                    "count": 14
+                  },
+                  {
+                    "url": null,
+                    "person": "McKay, John P",
+                    "gender": null,
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "person": "Greer, Thomas H",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Cunningham, Lawrence",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Matthews, Roy T",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Sherman, Dennis",
+                    "gender": null,
+                    "count": 8
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "historian"
+                ]
+              }
+            },
+            "CB305-430": {
+              "id": "CB305-430",
+              "subject": "By period",
+              "count": 4419,
+              "children": {},
+              "subjects": {
+                "id": "CB305-430",
+                "subject": "By period",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Fiero, Gloria K",
+                    "gender": null,
+                    "count": 16
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Nikolai_Berdyaev",
+                    "person": "Berdi︠a︡ev, Nikolaĭ, 1874-1948",
+                    "gender": "male",
+                    "count": 14,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Berdyaev2.jpg/200px-Berdyaev2.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Max_Nordau",
+                    "person": "Nordau, Max Simon, 1849-1923",
+                    "gender": "male",
+                    "count": 12,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_of_Max_Nordau.jpg/200px-Portrait_of_Max_Nordau.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Aron_Gurevich",
+                    "person": "Gurevich, Aron I︠A︡kovlevich",
+                    "gender": "male",
+                    "count": 12
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Henry_Osborn_Taylor",
+                    "person": "Taylor, Henry Osborn, 1856-1941",
+                    "gender": "male",
+                    "count": 11
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/H._G._Wells",
+                    "person": "Wells, H. G. (Herbert George), 1866-1946",
+                    "gender": "male",
+                    "count": 9,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/H.G._Wells_by_Beresford.jpg/200px-H.G._Wells_by_Beresford.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Alfred_Rosenberg",
+                    "person": "Rosenberg, Alfred, 1893-1946",
+                    "gender": "male",
+                    "count": 9,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bundesarchiv_Bild_183-1985-0723-500,_Alfred_Rosenberg.jpg/200px-Bundesarchiv_Bild_183-1985-0723-500,_Alfred_Rosenberg.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Jacques_Le_Goff",
+                    "person": "Le Goff, Jacques, 1924-",
+                    "gender": "male",
+                    "count": 9
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Edgar_Morin",
+                    "person": "Morin, Edgar",
+                    "gender": "male",
+                    "count": 8,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Edgar_Morin_IMG_0558.jpg/200px-Edgar_Morin_IMG_0558.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Nagle, D. Brendan, 1936-",
+                    "gender": null,
+                    "count": 8
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "writer",
+                  "philosopher",
+                  "journalist",
+                  "historian",
+                  "sociologist",
+                  "politician"
+                ]
+              }
+            },
+            "CB440-482": {
+              "id": "CB440-482",
+              "subject": "Relation to special topics",
+              "count": 173,
+              "children": {
+                "CB478": {
+                  "id": "CB478",
+                  "subject": "Technology",
+                  "count": 423,
+                  "children": {},
+                  "subjects": {
+                    "id": "CB478",
+                    "subject": "Technology",
+                    "topPeople": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Lewis_Mumford",
+                        "person": "Mumford, Lewis, 1895-1990",
+                        "gender": "male",
+                        "count": 6,
+                        "image": "http://en.wikipedia.org/wiki/Special:FilePath/Lewis_Mumford_House,_Amenia,_NY.jpg?width=300"
+                      },
+                      {
+                        "url": null,
+                        "person": "Volkov, G. N. (Genrikh Nikolaevich)",
+                        "gender": "male",
+                        "count": 4
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Radovan_Richta",
+                        "person": "Richta, Radovan",
+                        "gender": "male",
+                        "count": 4,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/RadovanRichta.png/200px-RadovanRichta.png.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Karl_Marx",
+                        "person": "Marx, Karl, 1818-1883",
+                        "gender": "male",
+                        "count": 3,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Karl_Marx_001.jpg/200px-Karl_Marx_001.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Herbig, Paul A",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": null,
+                        "person": "Petrov, M. K. (Mikhail Konstantinovich)",
+                        "gender": "male",
+                        "count": 3
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": false,
+                    "occupations": [
+                      "philosopher",
+                      "sociologist",
+                      "historian",
+                      "journalist"
+                    ]
+                  }
+                },
+                "CB481": {
+                  "id": "CB481",
+                  "subject": "War and civilization",
+                  "count": 49,
+                  "children": {},
+                  "subjects": {
+                    "id": "CB481",
+                    "subject": "War and civilization",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                },
+                "CB450": {
+                  "id": "CB450",
+                  "subject": "Geography and civilization",
+                  "count": 8,
+                  "children": {},
+                  "subjects": {
+                    "id": "CB450",
+                    "subject": "Geography and civilization",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                },
+                "CB482": {
+                  "id": "CB482",
+                  "subject": "Water and civilization",
+                  "count": 15,
+                  "children": {},
+                  "subjects": {
+                    "id": "CB482",
+                    "subject": "Water and civilization",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CB440-482",
+                "subject": "Relation to special topics",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Bayley, Harold",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Clough, Shepard B. (Shepard Bancroft), 1901-1990",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/John_Moriarty_(writer)",
+                    "person": "Moriarty, John, 1938-2007",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Sven_Tito_Achen",
+                    "person": "Achen, Sven Tito",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Vokin, G. G. (Grigoriĭ Grigorʹevich), 1936-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CB158-161": {
+              "id": "CB158-161",
+              "subject": "Forecasts of future progress",
+              "count": 947,
+              "children": {},
+              "subjects": {
+                "id": "CB158-161",
+                "subject": "Forecasts of future progress",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/W._Warren_Wagar",
+                    "person": "Wagar, W. Warren",
+                    "gender": "male",
+                    "count": 9,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/W_Warren_Wagar.jpg/200px-W_Warren_Wagar.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Herman_Kahn",
+                    "person": "Kahn, Herman, 1922-1983",
+                    "gender": "male",
+                    "count": 8,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Interview_with_Herman_Kahn,_author_of_On_Escalation,_May_11,_1965.jpg/200px-Interview_with_Herman_Kahn,_author_of_On_Escalation,_May_11,_1965.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Georgy_Shakhnazarov",
+                    "person": "Shakhnazarov, Georgiĭ Khosroevich",
+                    "gender": "male",
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Ervin_László",
+                    "person": "Laszlo, Ervin, 1932-",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Laszlo_Ervin.jpg/200px-Laszlo_Ervin.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Cetron, Marvin J",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Ossip_K._Flechtheim",
+                    "person": "Flechtheim, Ossip Kurt, 1909-",
+                    "gender": "male",
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Bestuzhev-Lada, Igorʹ Vasilʹevich",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Richard_Watson_(author)",
+                    "person": "Watson, Richard, 1961-",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Richard_Watson_(Author).jpg?width=300"
+                  },
+                  {
+                    "url": null,
+                    "person": "Kosolapov, V. V. (Viktor Vasilʹevich)",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Fareed_Zakaria",
+                    "person": "Zakaria, Fareed",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fareed_Zakaria_World_Economic_Forum_2013.jpg/200px-Fareed_Zakaria_World_Economic_Forum_2013.jpg.jpg"
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "writer"
+                ]
+              }
+            },
+            "CB156": {
+              "id": "CB156",
+              "subject": "Terrestrial evidence of interplanetary voyages",
+              "count": 170,
+              "children": {},
+              "subjects": {
+                "id": "CB156",
+                "subject": "Terrestrial evidence of interplanetary voyages",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Erich_von_Däniken",
+                    "person": "Däniken, Erich von, 1935-",
+                    "gender": "male",
+                    "count": 40,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Erich-von-Däniken_1610.jpg/200px-Erich-von-Däniken_1610.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
+                    "person": "Sitchin, Zecharia",
+                    "gender": "male",
+                    "count": 16,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ZechariaSitchin.png/200px-ZechariaSitchin.png.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Wilson, Clifford A",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/W._Raymond_Drake",
+                    "person": "Drake, W. Raymond (Walter Raymond), 1913-",
+                    "gender": "male",
+                    "count": 5
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Peter_Kolosimo",
+                    "person": "Kolosimo, Peter",
+                    "gender": "male",
+                    "count": 5,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Peter_e_Caterina_Kolosimo_Torino_1972-73.png/200px-Peter_e_Caterina_Kolosimo_Torino_1972-73.png.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Collyns, Robin",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Robert_K._G._Temple",
+                    "person": "Temple, Robert K. G",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Paul_Misraki",
+                    "person": "Misraki, Paul, 1908-1998",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Chatelain, Maurice",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "writer",
+                  "ufologist",
+                  "science fiction writer",
+                  "journalist"
+                ]
+              }
+            }
+          },
+          "subjects": {
+            "id": "CB3-482",
+            "subject": "History of Civilization",
+            "topPeople": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Arnold_J._Toynbee",
+                "person": "Toynbee, Arnold, 1889-1975",
+                "gender": "male",
+                "count": 53,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Arnold_J._Toynbee_Anefo.jpg/200px-Arnold_J._Toynbee_Anefo.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Daniel_J._Boorstin",
+                "person": "Boorstin, Daniel J. (Daniel Joseph), 1914-2004",
+                "gender": "male",
+                "count": 38,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Daniel_Boorstin.jpg/200px-Daniel_Boorstin.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Edward_Said",
+                "person": "Said, Edward W",
+                "gender": "male",
+                "count": 35,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Poster_of_Edward_Said.jpg/200px-Poster_of_Edward_Said.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Oswald_Spengler",
+                "person": "Spengler, Oswald, 1880-1936",
+                "gender": "male",
+                "count": 29,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Bundesarchiv_Bild_183-R06610,_Oswald_Spengler.jpg/200px-Bundesarchiv_Bild_183-R06610,_Oswald_Spengler.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/José_Ortega_y_Gasset",
+                "person": "Ortega y Gasset, José, 1883-1955",
+                "gender": "male",
+                "count": 24,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Jose_Ortega_y_Gasset.jpg/200px-Jose_Ortega_y_Gasset.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Norbert_Elias",
+                "person": "Elias, Norbert, 1897-1990",
+                "gender": "male",
+                "count": 22,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Norbert_Elias_(1987).jpg/200px-Norbert_Elias_(1987).jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Burns, Edward McNall, 1897-",
+                "gender": null,
+                "count": 15
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Henry_Thomas_Buckle",
+                "person": "Buckle, Henry Thomas, 1821-1862",
+                "gender": "male",
+                "count": 14,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Henry_Thomas_Buckle_(1857).jpg/200px-Henry_Thomas_Buckle_(1857).jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/T._Walter_Wallbank",
+                "person": "Wallbank, T. Walter (Thomas Walter), 1901-",
+                "gender": "male",
+                "count": 12
+              },
+              {
+                "url": null,
+                "person": "McKay, John P",
+                "gender": null,
+                "count": 10
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": [
+              "historian",
+              "writer",
+              "sociologist",
+              "philosopher",
+              "literary critic",
+              "mathematician",
+              "university teacher"
+            ]
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CJ": {
+      "id": "CJ",
+      "subject": "Numismatics",
+      "count": 0,
+      "children": {
+        "CJ1-6661": {
+          "id": "CJ1-6661",
+          "subject": "Numismatics",
+          "count": 2,
+          "children": {
+            "CJ1509-4625": {
+              "id": "CJ1509-4625",
+              "subject": "Medieval and modern",
+              "count": 3533,
+              "children": {},
+              "subjects": {
+                "id": "CJ1509-4625",
+                "subject": "Medieval and modern",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Q._David_Bowers",
+                    "person": "Bowers, Q. David",
+                    "gender": "male",
+                    "count": 23,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Q_David_Bowers.jpg/200px-Q_David_Bowers.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Davenport, John Stewart, 1907-",
+                    "gender": "male",
+                    "count": 17
+                  },
+                  {
+                    "url": null,
+                    "person": "Dietzel, Heinz",
+                    "gender": null,
+                    "count": 15
+                  },
+                  {
+                    "url": null,
+                    "person": "Schön, Günter",
+                    "gender": null,
+                    "count": 13
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Wayte_Raymond",
+                    "person": "Raymond, Wayte, 1886-1956",
+                    "gender": "male",
+                    "count": 12
+                  },
+                  {
+                    "url": null,
+                    "person": "Bressett, Kenneth E",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Miles, George Carpenter, 1904-1975",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Houyez, René",
+                    "gender": null,
+                    "count": 9
+                  },
+                  {
+                    "url": null,
+                    "person": "Haxby, J. A. (James A.)",
+                    "gender": null,
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "person": "Judd, J. Hewitt, 1899-",
+                    "gender": null,
+                    "count": 8
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "numismatist"
+                ]
+              }
+            },
+            "CJ1-4625": {
+              "id": "CJ1-4625",
+              "subject": "Coins",
+              "count": 2637,
+              "children": {},
+              "subjects": {
+                "id": "CJ1-4625",
+                "subject": "Coins",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Hobson, Burton",
+                    "gender": null,
+                    "count": 24
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Edward_Theodore_Newell",
+                    "person": "Newell, Edward Theodore, 1886-1941",
+                    "gender": "male",
+                    "count": 24
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Fred_Reinfeld",
+                    "person": "Reinfeld, Fred, 1910-1964",
+                    "gender": "male",
+                    "count": 20
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+                    "person": "Alexander, the Great, 356 B.C.-323 B.C",
+                    "gender": "male",
+                    "count": 18,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_BW.jpg/200px-Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_BW.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Topalov, Stavri",
+                    "gender": null,
+                    "count": 13
+                  },
+                  {
+                    "url": null,
+                    "person": "Depeyrot, Georges",
+                    "gender": "male",
+                    "count": 11
+                  },
+                  {
+                    "url": null,
+                    "person": "Sayles, Wayne G",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/George_Francis_Hill",
+                    "person": "Hill, George Francis, Sir, 1867-1948",
+                    "gender": "male",
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Bressett, Kenneth E",
+                    "gender": null,
+                    "count": 10
+                  },
+                  {
+                    "url": null,
+                    "person": "Bastien, Pierre, numismatist",
+                    "gender": "male",
+                    "count": 9
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "numismatist"
+                ]
+              }
+            },
+            "CJ4801-5450": {
+              "id": "CJ4801-5450",
+              "subject": "Tokens",
+              "count": 4,
+              "children": {
+                "CJ4901-5336": {
+                  "id": "CJ4901-5336",
+                  "subject": "By region or country",
+                  "count": 177,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ4901-5336",
+                    "subject": "By region or country",
+                    "topPeople": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Russell_Rulau",
+                        "person": "Rulau, Russell",
+                        "gender": "male",
+                        "count": 17
+                      },
+                      {
+                        "url": null,
+                        "person": "Fuld, George",
+                        "gender": null,
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "person": "Malehorn, Merlin K",
+                        "gender": null,
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "person": "Birt, Hal",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Atwood, Roland C",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": null,
+                        "person": "Clark, C. R",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": null,
+                        "person": "Fauver, L. B. (L. Benjamin)",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": null,
+                        "person": "Schenkman, David E",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": null,
+                        "person": "Worthington, Richard D",
+                        "gender": null,
+                        "count": 3
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                },
+                "CJ4861-4889": {
+                  "id": "CJ4861-4889",
+                  "subject": "By period",
+                  "count": 10,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ4861-4889",
+                    "subject": "By period",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                },
+                "CJ5350-5450": {
+                  "id": "CJ5350-5450",
+                  "subject": "Special uses of tokens",
+                  "count": 39,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ5350-5450",
+                    "subject": "Special uses of tokens",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CJ4801-5450",
+                "subject": "Tokens",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CJ5501-6661": {
+              "id": "CJ5501-6661",
+              "subject": "Medals and medallions",
+              "count": 45,
+              "children": {
+                "CJ5795-6661": {
+                  "id": "CJ5795-6661",
+                  "subject": "By region or country",
+                  "count": 519,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ5795-6661",
+                    "subject": "By region or country",
+                    "topPeople": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Napoleon",
+                        "person": "Napoleon I, Emperor of the French, 1769-1821",
+                        "gender": "male",
+                        "count": 7,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_2.jpg/200px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_2.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Turricchia, Arnaldo",
+                        "gender": null,
+                        "count": 5
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/George_Washington",
+                        "person": "Washington, George, 1732-1799",
+                        "gender": "male",
+                        "count": 5,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/200px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Steguweit, Wolfgang",
+                        "gender": "male",
+                        "count": 5
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Mark_Jones_(museum_director)",
+                        "person": "Jones, Mark, 1951-",
+                        "gender": "male",
+                        "count": 5,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Markjones.jpg/200px-Markjones.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Weiler, Hanno",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Shchukina, E. S. (Evgenii︠a︡ Semenovna)",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Lorioli, Vittorio",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": null,
+                        "person": "Pessolano-Filos, Francis, 1900-",
+                        "gender": null,
+                        "count": 4
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Simón_Bolívar",
+                        "person": "Bolívar, Simón, 1783-1830",
+                        "gender": "male",
+                        "count": 4,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Simón_Bolívar_-_Juan_Lovera,_1827.jpg/200px-Simón_Bolívar_-_Juan_Lovera,_1827.jpg.jpg"
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": false,
+                    "occupations": [
+                      "politician",
+                      "military officer",
+                      "land surveyor",
+                      "military personnel",
+                      "art historian"
+                    ]
+                  }
+                },
+                "CJ5723-5793": {
+                  "id": "CJ5723-5793",
+                  "subject": "Medieval and modern",
+                  "count": 77,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ5723-5793",
+                    "subject": "Medieval and modern",
+                    "topPeople": [
+                      {
+                        "url": null,
+                        "person": "Miselli, Walter",
+                        "gender": null,
+                        "count": 3
+                      }
+                    ],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                },
+                "CJ5581-5690": {
+                  "id": "CJ5581-5690",
+                  "subject": "Ancient",
+                  "count": 22,
+                  "children": {},
+                  "subjects": {
+                    "id": "CJ5581-5690",
+                    "subject": "Ancient",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CJ5501-6661",
+                "subject": "Medals and medallions",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "CJ1-6661",
+            "subject": "Numismatics",
+            "topPeople": [],
+            "genderType": "equal",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CC": {
+      "id": "CC",
+      "subject": "Archaeology",
+      "count": 0,
+      "children": {
+        "CC1-960": {
+          "id": "CC1-960",
+          "subject": "Archaeology",
+          "count": 1685,
+          "children": {
+            "CC83-97": {
+              "id": "CC83-97",
+              "subject": "Study and teaching.  Research",
+              "count": 147,
+              "children": {},
+              "subjects": {
+                "id": "CC83-97",
+                "subject": "Study and teaching.  Research",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Leo_Klejn",
+                    "person": "Kleĭn, L. S. (Lev Samuilovich)",
+                    "gender": "male",
+                    "count": 3,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leo_Klejn.jpg/200px-Leo_Klejn.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Formozov, A. A. (Aleksandr Aleksandrovich), 1928-2009",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Grant, Jim, 1958-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CC72-81": {
+              "id": "CC72-81",
+              "subject": "Philosophy.  Theory",
+              "count": 248,
+              "children": {
+                "CC73-81": {
+                  "id": "CC73-81",
+                  "subject": "Methodology",
+                  "count": 2016,
+                  "children": {},
+                  "subjects": {
+                    "id": "CC73-81",
+                    "subject": "Methodology",
+                    "topPeople": [
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Brian_M._Fagan",
+                        "person": "Fagan, Brian M",
+                        "gender": "male",
+                        "count": 14
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Leonard_Woolley",
+                        "person": "Woolley, Leonard, Sir, 1880-1960",
+                        "gender": "male",
+                        "count": 6,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Leonard_Woolley_at_the_British_Museum's_Excavations_at_Carchemish,_Syria,_in_the_spring_of_1913.jpg/200px-Leonard_Woolley_at_the_British_Museum's_Excavations_at_Carchemish,_Syria,_in_the_spring_of_1913.jpg.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Michael_Brian_Schiffer",
+                        "person": "Schiffer, Michael B",
+                        "gender": "male",
+                        "count": 6
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Wendy_Ashmore",
+                        "person": "Ashmore, Wendy, 1948-",
+                        "gender": "female",
+                        "count": 6
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Myra_Shackley",
+                        "person": "Shackley, Myra L",
+                        "gender": "female",
+                        "count": 5
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Grahame_Clark",
+                        "person": "Clark, Grahame, 1907-1995",
+                        "gender": "male",
+                        "count": 5,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/1990_Clark_laudatio.jpg/200px-1990_Clark_laudatio.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Coles, J. M. (John M.)",
+                        "gender": null,
+                        "count": 5
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Philip_A._Barker",
+                        "person": "Barker, Philip, 1920-",
+                        "gender": "male",
+                        "count": 5
+                      },
+                      {
+                        "url": null,
+                        "person": "Orton, Clive, 1948-",
+                        "gender": null,
+                        "count": 5
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/George_Bass_(archaeologist)",
+                        "person": "Bass, George Fletcher",
+                        "gender": "male",
+                        "count": 4
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": true,
+                    "occupations": [
+                      "anthropologist",
+                      "archaeologist",
+                      "university teacher"
+                    ]
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CC72-81",
+                "subject": "Philosophy.  Theory",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Leo_Klejn",
+                    "person": "Kleĭn, L. S. (Lev Samuilovich)",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Leo_Klejn.jpg/200px-Leo_Klejn.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Ian_Hodder",
+                    "person": "Hodder, Ian",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Michael_Shanks_(journalist)",
+                    "person": "Shanks, Michael",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Johnson, Matthew, 1962-",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "anthropologist",
+                  "archaeologist",
+                  "prehistorian"
+                ]
+              }
+            },
+            "CC135-137": {
+              "id": "CC135-137",
+              "subject": "Preservation, restoration, and conservation of",
+              "count": 457,
+              "children": {},
+              "subjects": {
+                "id": "CC135-137",
+                "subject": "Preservation, restoration, and conservation of",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Greenfield, Jeanette",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CC200-260": {
+              "id": "CC200-260",
+              "subject": "Bells.  Campanology.  Cowbells",
+              "count": 165,
+              "children": {},
+              "subjects": {
+                "id": "CC200-260",
+                "subject": "Bells.  Campanology.  Cowbells",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Sharpe, Frederick",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Walters, Henry Beauchamp, 1867-1944",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Coleman, Satis N. (Satis Narrona), 1878-1961",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Morris, Ernest",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Yŏm, Yŏng-ha",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CC300-350": {
+              "id": "CC300-350",
+              "subject": "Crosses",
+              "count": 160,
+              "children": {},
+              "subjects": {
+                "id": "CC300-350",
+                "subject": "Crosses",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Arribas Arias, Fernándo",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Fernando_Arribas_Arias_(AELG)-3.jpg/200px-Fernando_Arribas_Arias_(AELG)-3.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Störzner, Frank",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Argam_Aivazian",
+                    "person": "Ayvazyan, Argam, 1947-",
+                    "gender": "male",
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "historian"
+                ]
+              }
+            },
+            "CC710": {
+              "id": "CC710",
+              "subject": "Hill figures",
+              "count": 9,
+              "children": {},
+              "subjects": {
+                "id": "CC710",
+                "subject": "Hill figures",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CC140": {
+              "id": "CC140",
+              "subject": "Forgeries of antiquities",
+              "count": 17,
+              "children": {},
+              "subjects": {
+                "id": "CC140",
+                "subject": "Forgeries of antiquities",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Kenneth_Feder",
+                    "person": "Feder, Kenneth L",
+                    "gender": "male",
+                    "count": 8,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Archaeologist_Ken_Feder.jpg/200px-Archaeologist_Ken_Feder.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Rieth, Adolf, 1902-",
+                    "gender": "male",
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "archaeologist"
+                ]
+              }
+            },
+            "CC960": {
+              "id": "CC960",
+              "subject": "Lanterns of the dead",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "CC960",
+                "subject": "Lanterns of the dead",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CC600-605": {
+              "id": "CC600-605",
+              "subject": "Boundary stones",
+              "count": 13,
+              "children": {},
+              "subjects": {
+                "id": "CC600-605",
+                "subject": "Boundary stones",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CC700-705": {
+              "id": "CC700-705",
+              "subject": "Stone heaps, cairns, etc., of unknown purpose",
+              "count": 1,
+              "children": {},
+              "subjects": {
+                "id": "CC700-705",
+                "subject": "Stone heaps, cairns, etc., of unknown purpose",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "CC1-960",
+            "subject": "Archaeology",
+            "topPeople": [
+              {
+                "url": "https://en.wikipedia.org/wiki/Brian_M._Fagan",
+                "person": "Fagan, Brian M",
+                "gender": "male",
+                "count": 27
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/C._W._Ceram",
+                "person": "Ceram, C. W., 1915-1972",
+                "gender": "male",
+                "count": 15
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Colin_Renfrew",
+                "person": "Renfrew, Colin, 1937-",
+                "gender": "male",
+                "count": 9
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Zecharia_Sitchin",
+                "person": "Sitchin, Zecharia",
+                "gender": "male",
+                "count": 8,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/ZechariaSitchin.png/200px-ZechariaSitchin.png.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Rose_Macaulay",
+                "person": "Macaulay, Rose, 1881-1958",
+                "gender": "female",
+                "count": 7,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Rose_macaulay.jpg/200px-Rose_macaulay.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Ciriaco_de'_Pizzicolli",
+                "person": "Ciriaco, d'Ancona, 1391-1452",
+                "gender": "male",
+                "count": 7,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ciriaco_d'Ancona_di_Benozzo_Gozzoli.jpg/200px-Ciriaco_d'Ancona_di_Benozzo_Gozzoli.jpg.jpg"
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/David_Hurst_Thomas",
+                "person": "Thomas, David Hurst",
+                "gender": "male",
+                "count": 7
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Bruce_Trigger",
+                "person": "Trigger, Bruce G",
+                "gender": "male",
+                "count": 7
+              },
+              {
+                "url": null,
+                "person": "Eydoux, Henri Paul",
+                "gender": "male",
+                "count": 7
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Praskovya_Uvarova",
+                "person": "Uvarova, Praskovʹi︠a︡ Sergi︠e︡evna, grafini︠a︡, 1840-1924",
+                "gender": "female",
+                "count": 6,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Praskovia_Strgeevna_Uvarova2.jpg/200px-Praskovia_Strgeevna_Uvarova2.jpg.jpg"
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": true,
+            "occupations": [
+              "archaeologist",
+              "anthropologist",
+              "writer",
+              "university teacher",
+              "journalist",
+              "prehistorian"
+            ]
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CN": {
+      "id": "CN",
+      "subject": "Inscriptions.  Epigraphy",
+      "count": 0,
+      "children": {
+        "CN1-1355": {
+          "id": "CN1-1355",
+          "subject": "Inscriptions.  Epigraphy",
+          "count": 60,
+          "children": {
+            "CN120-740": {
+              "id": "CN120-740",
+              "subject": "Ancient inscriptions",
+              "count": 922,
+              "children": {},
+              "subjects": {
+                "id": "CN120-740",
+                "subject": "Ancient inscriptions",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Bernand, Etienne",
+                    "gender": "male",
+                    "count": 7,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Etienne-Bernand-.jpg/200px-Etienne-Bernand-.jpg.jpg"
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Wilhelm_Dittenberger",
+                    "person": "Dittenberger, Wilhelm, 1840-1906",
+                    "gender": "male",
+                    "count": 7,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wilhelm_Dittenberger_-_Imagines_philologorum.jpg/200px-Wilhelm_Dittenberger_-_Imagines_philologorum.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Susini, G. C. (Gian Carlo)",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Mikhaĭlov, Georgi, 1915-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Woodhead, A. G. (Arthur Geoffrey)",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Margherita_Guarducci",
+                    "person": "Guarducci, Margherita",
+                    "gender": "female",
+                    "count": 4
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Stephen_V._Tracy",
+                    "person": "Tracy, Stephen V., 1941-",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Chioffi, Laura",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Hernández Guerra, Liborio",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Corell, J. (Josep)",
+                    "gender": null,
+                    "count": 4
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": [
+                  "archaeologist",
+                  "university teacher",
+                  "classical scholar"
+                ]
+              }
+            },
+            "CN750-753": {
+              "id": "CN750-753",
+              "subject": "Early Christian inscriptions",
+              "count": 48,
+              "children": {},
+              "subjects": {
+                "id": "CN750-753",
+                "subject": "Early Christian inscriptions",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Mazzoleni, Danilo",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CN870-1355": {
+              "id": "CN870-1355",
+              "subject": "By region or country",
+              "count": 827,
+              "children": {},
+              "subjects": {
+                "id": "CN870-1355",
+                "subject": "By region or country",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Ram_Khamhaeng",
+                    "person": "Rāmkhamhǣng, King of Sukhothai, -approximately 1300",
+                    "gender": "male",
+                    "count": 8,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ramkhamhaeng_the_Great.jpg/200px-Ramkhamhaeng_the_Great.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Silogava, Valeri, 1945-2011",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Wehking, Sabine",
+                    "gender": "female",
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Chudinov, V. A. (Valeriĭ Alekseevich)",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Prof._Valery_Chudinov_in_Yekaterinburg,_December_17,_2011.jpg/200px-Prof._Valery_Chudinov_in_Yekaterinburg,_December_17,_2011.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Kiruṣṇamūrtti, Ca. (Caṭaicāmi), 1949-",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Gupta dynasty",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Gai, Govind Swamirao",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Morlet, Antonin",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Veselin_Beshevliev",
+                    "person": "Beshevliev, Veselin",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Miśra, Ratanalāla",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": []
+              }
+            },
+            "CN805-865": {
+              "id": "CN805-865",
+              "subject": "By language",
+              "count": 15,
+              "children": {},
+              "subjects": {
+                "id": "CN805-865",
+                "subject": "By language",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CN760": {
+              "id": "CN760",
+              "subject": "Modern inscriptions (General)",
+              "count": 2,
+              "children": {},
+              "subjects": {
+                "id": "CN760",
+                "subject": "Modern inscriptions (General)",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CN755": {
+              "id": "CN755",
+              "subject": "Medieval inscriptions (General)",
+              "count": 6,
+              "children": {},
+              "subjects": {
+                "id": "CN755",
+                "subject": "Medieval inscriptions (General)",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "CN1-1355",
+            "subject": "Inscriptions.  Epigraphy",
+            "topPeople": [
+              {
+                "url": null,
+                "person": "Koch, Walter, 1942-",
+                "gender": "male",
+                "count": 3
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CD": {
+      "id": "CD",
+      "subject": "Diplomatics.  Archives.  Seals",
+      "count": 0,
+      "children": {
+        "CD1-6471": {
+          "id": "CD1-6471",
+          "subject": "Diplomatics.  Archives.  Seals",
+          "count": 14,
+          "children": {
+            "CD921-4280": {
+              "id": "CD921-4280",
+              "subject": "Archives",
+              "count": 773,
+              "children": {
+                "CD995-4280": {
+                  "id": "CD995-4280",
+                  "subject": "History and statistics",
+                  "count": 21,
+                  "children": {
+                    "CD1000-4280": {
+                      "id": "CD1000-4280",
+                      "subject": "By region or country",
+                      "count": 9252,
+                      "children": {},
+                      "subjects": {
+                        "id": "CD1000-4280",
+                        "subject": "By region or country",
+                        "topPeople": [
+                          {
+                            "url": null,
+                            "person": "Yi family",
+                            "gender": null,
+                            "count": 25
+                          },
+                          {
+                            "url": null,
+                            "person": "Kim family",
+                            "gender": null,
+                            "count": 13
+                          },
+                          {
+                            "url": null,
+                            "person": "Gibson, Jeremy Sumner Wycherley",
+                            "gender": null,
+                            "count": 11
+                          },
+                          {
+                            "url": null,
+                            "person": "Pak family",
+                            "gender": null,
+                            "count": 10
+                          },
+                          {
+                            "url": null,
+                            "person": "Chŏng family",
+                            "gender": null,
+                            "count": 9
+                          },
+                          {
+                            "url": "https://en.wikipedia.org/wiki/Patricia_Kennedy_Grimsted",
+                            "person": "Grimsted, Patricia Kennedy",
+                            "gender": "female",
+                            "count": 9
+                          },
+                          {
+                            "url": null,
+                            "person": "Sieburg, Armin",
+                            "gender": null,
+                            "count": 8
+                          },
+                          {
+                            "url": null,
+                            "person": "Briceño Perozo, Mario",
+                            "gender": null,
+                            "count": 7
+                          },
+                          {
+                            "url": null,
+                            "person": "Villand, Rémy",
+                            "gender": null,
+                            "count": 7
+                          },
+                          {
+                            "url": null,
+                            "person": "Angerbauer, Wolfram",
+                            "gender": "male",
+                            "count": 6
+                          }
+                        ],
+                        "genderType": "equal",
+                        "hasWomen": true,
+                        "occupations": []
+                      }
+                    },
+                    "CD997": {
+                      "id": "CD997",
+                      "subject": "Biography of archivists",
+                      "count": 47,
+                      "children": {},
+                      "subjects": {
+                        "id": "CD997",
+                        "subject": "Biography of archivists",
+                        "topPeople": [
+                          {
+                            "url": null,
+                            "person": "Gayangos, Pascual de, 1809-1897",
+                            "gender": null,
+                            "count": 3
+                          },
+                          {
+                            "url": null,
+                            "person": "Schneider, Eugen, 1854-1937",
+                            "gender": "male",
+                            "count": 3
+                          }
+                        ],
+                        "genderType": "male",
+                        "hasWomen": false,
+                        "occupations": []
+                      }
+                    }
+                  },
+                  "subjects": {
+                    "id": "CD995-4280",
+                    "subject": "History and statistics",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CD921-4280",
+                "subject": "Archives",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Cox, Richard J",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Cook, Michael, 1931-",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/T._R._Schellenberg",
+                    "person": "Schellenberg, T. R. (Theodore R.), 1903-1970",
+                    "gender": "male",
+                    "count": 6
+                  },
+                  {
+                    "url": null,
+                    "person": "Evans, Frank Bernard, 1927-",
+                    "gender": null,
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Tanodi, Aurelio",
+                    "gender": "male",
+                    "count": 5
+                  },
+                  {
+                    "url": null,
+                    "person": "Muller, Samuel, 1848-1922",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Archivaris_Samuel_Muller_Fz_mirrored.jpg/200px-Archivaris_Samuel_Muller_Fz_mirrored.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Duchein, Michel",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Wallace, Patricia E",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Dollar, Charles M",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Hilary_Jenkinson",
+                    "person": "Jenkinson, Hilary, Sir",
+                    "gender": "male",
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "archivist"
+                ]
+              }
+            },
+            "CD91-392": {
+              "id": "CD91-392",
+              "subject": "Collection of documents, facsimiles, etc., for study",
+              "count": 114,
+              "children": {},
+              "subjects": {
+                "id": "CD91-392",
+                "subject": "Collection of documents, facsimiles, etc., for study",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CD5001-6471": {
+              "id": "CD5001-6471",
+              "subject": "Seals",
+              "count": 37,
+              "children": {
+                "CD5575-6471": {
+                  "id": "CD5575-6471",
+                  "subject": "Modern",
+                  "count": 883,
+                  "children": {},
+                  "subjects": {
+                    "id": "CD5575-6471",
+                    "subject": "Modern",
+                    "topPeople": [
+                      {
+                        "url": null,
+                        "person": "Huang, Mufu, 1849-1908",
+                        "gender": "male",
+                        "count": 18,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Huang_Shi_ling.JPG/200px-Huang_Shi_ling.JPG.jpg"
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Qi_Baishi",
+                        "person": "Qi, Baishi, 1864-1957",
+                        "gender": "male",
+                        "count": 17,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/The_Soviet_Union_1958_CPA_2116_stamp_(Qi_Baishi)_cancelled.jpg/200px-The_Soviet_Union_1958_CPA_2116_stamp_(Qi_Baishi)_cancelled.jpg.jpg"
+                      },
+                      {
+                        "url": null,
+                        "person": "Deng, Sanmu",
+                        "gender": "male",
+                        "count": 11
+                      },
+                      {
+                        "url": null,
+                        "person": "Han, Tianheng",
+                        "gender": null,
+                        "count": 11
+                      },
+                      {
+                        "url": null,
+                        "person": "Lai, Chusheng, 1903-1975",
+                        "gender": null,
+                        "count": 10
+                      },
+                      {
+                        "url": null,
+                        "person": "Wu, Changshuo, 1844-1927",
+                        "gender": "male",
+                        "count": 9
+                      },
+                      {
+                        "url": null,
+                        "person": "Liu, Yiwen",
+                        "gender": null,
+                        "count": 7
+                      },
+                      {
+                        "url": null,
+                        "person": "Chen, Julai, 1904-",
+                        "gender": null,
+                        "count": 7
+                      },
+                      {
+                        "url": null,
+                        "person": "Tang, Zuishi, 1886-1969",
+                        "gender": null,
+                        "count": 6
+                      },
+                      {
+                        "url": null,
+                        "person": "Qian, Juntao",
+                        "gender": null,
+                        "count": 6
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": false,
+                    "occupations": [
+                      "painter"
+                    ]
+                  }
+                },
+                "CD5201-5391": {
+                  "id": "CD5201-5391",
+                  "subject": "Ancient",
+                  "count": 206,
+                  "children": {},
+                  "subjects": {
+                    "id": "CD5201-5391",
+                    "subject": "Ancient",
+                    "topPeople": [
+                      {
+                        "url": null,
+                        "person": "Collon, Dominique",
+                        "gender": null,
+                        "count": 3
+                      },
+                      {
+                        "url": "https://en.wikipedia.org/wiki/Nahman_Avigad",
+                        "person": "Avigad, Nahman",
+                        "gender": "male",
+                        "count": 3,
+                        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nahman_Avigad_1950.jpg/200px-Nahman_Avigad_1950.jpg.jpg"
+                      }
+                    ],
+                    "genderType": "male",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                },
+                "CD5501-5557": {
+                  "id": "CD5501-5557",
+                  "subject": "Medieval",
+                  "count": 25,
+                  "children": {},
+                  "subjects": {
+                    "id": "CD5501-5557",
+                    "subject": "Medieval",
+                    "topPeople": [],
+                    "genderType": "equal",
+                    "hasWomen": false,
+                    "occupations": []
+                  }
+                }
+              },
+              "subjects": {
+                "id": "CD5001-6471",
+                "subject": "Seals",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            },
+            "CD1-511": {
+              "id": "CD1-511",
+              "subject": "Diplomatics",
+              "count": 277,
+              "children": {},
+              "subjects": {
+                "id": "CD1-511",
+                "subject": "Diplomatics",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Rozière, Eugène de, 1820-1896",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Reginald_Lane_Poole",
+                    "person": "Poole, Reginald Lane, 1857-1939",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Emma_Elizabeth_Thoyts",
+                    "person": "Thoyts, Emma Elizabeth, 1860-",
+                    "gender": "female",
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Harry_Bresslau",
+                    "person": "Bresslau, Harry, 1848-1926",
+                    "gender": "male",
+                    "count": 3,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Harry_Bresslau_(1848-1926).jpg/200px-Harry_Bresslau_(1848-1926).jpg.jpg"
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": [
+                  "historian"
+                ]
+              }
+            },
+            "CD80-81": {
+              "id": "CD80-81",
+              "subject": "Formularies",
+              "count": 7,
+              "children": {},
+              "subjects": {
+                "id": "CD80-81",
+                "subject": "Formularies",
+                "topPeople": [],
+                "genderType": "equal",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "CD1-6471",
+            "subject": "Diplomatics.  Archives.  Seals",
+            "topPeople": [],
+            "genderType": "equal",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "CE": {
+      "id": "CE",
+      "subject": "Technical chronology.  Calendar",
+      "count": 0,
+      "children": {
+        "CE1-97": {
+          "id": "CE1-97",
+          "subject": "Technical chronology.  Calendar",
+          "count": 252,
+          "children": {
+            "CE51-85": {
+              "id": "CE51-85",
+              "subject": "Medieval and modern",
+              "count": 461,
+              "children": {},
+              "subjects": {
+                "id": "CE51-85",
+                "subject": "Medieval and modern",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Elisabeth_Achelis",
+                    "person": "Achelis, Elisabeth, 1880-1973",
+                    "gender": "female",
+                    "count": 8
+                  },
+                  {
+                    "url": null,
+                    "person": "Hunnivári, Zoltán",
+                    "gender": null,
+                    "count": 7
+                  },
+                  {
+                    "url": null,
+                    "person": "Grotefend, Hermann, 1845-1931",
+                    "gender": "male",
+                    "count": 6,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hermann_Grotefend.png/200px-Hermann_Grotefend.png.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Vŭlchev, Ĭordan",
+                    "gender": "male",
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Mohammad Ilyas",
+                    "gender": null,
+                    "count": 4
+                  },
+                  {
+                    "url": null,
+                    "person": "Goudoever, J. van (Jan van), 1925-1994",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Freeman-Grenville, G. S. P. (Greville Stewart Parker)",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Bstan-ʼdzin-chos-bzaṅ",
+                    "gender": null,
+                    "count": 3
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Historical_Jesus",
+                    "person": "Jesus Christ",
+                    "gender": "male",
+                    "count": 3,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristo_crucificado.jpg/200px-Cristo_crucificado.jpg.jpg"
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": true,
+                "occupations": []
+              }
+            },
+            "CE21-46": {
+              "id": "CE21-46",
+              "subject": "Ancient",
+              "count": 303,
+              "children": {},
+              "subjects": {
+                "id": "CE21-46",
+                "subject": "Ancient",
+                "topPeople": [
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Al-Biruni",
+                    "person": "Bīrūnī, Muḥammad ibn Aḥmad, 973?-1048",
+                    "gender": "male",
+                    "count": 4,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Biruni_1.jpg/200px-Biruni_1.jpg.jpg"
+                  },
+                  {
+                    "url": null,
+                    "person": "Pritchett, W. Kendrick (William Kendrick), 1909-2007",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Spier, Arthur",
+                    "gender": "male",
+                    "count": 3
+                  },
+                  {
+                    "url": null,
+                    "person": "Sar-Shalom, R., ha-Kohen",
+                    "gender": null,
+                    "count": 3
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": [
+                  "historian"
+                ]
+              }
+            },
+            "CE91-92": {
+              "id": "CE91-92",
+              "subject": "Perpetual calendars.  Century calendars, etc.",
+              "count": 36,
+              "children": {},
+              "subjects": {
+                "id": "CE91-92",
+                "subject": "Perpetual calendars.  Century calendars, etc.",
+                "topPeople": [
+                  {
+                    "url": null,
+                    "person": "Fitch, Henry",
+                    "gender": null,
+                    "count": 6
+                  },
+                  {
+                    "url": "https://en.wikipedia.org/wiki/Augustus_De_Morgan",
+                    "person": "De Morgan, Augustus, 1806-1871",
+                    "gender": "male",
+                    "count": 3,
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/De_Morgan_Augustus.jpg/200px-De_Morgan_Augustus.jpg.jpg"
+                  }
+                ],
+                "genderType": "male",
+                "hasWomen": false,
+                "occupations": []
+              }
+            }
+          },
+          "subjects": {
+            "id": "CE1-97",
+            "subject": "Technical chronology.  Calendar",
+            "topPeople": [
+              {
+                "url": null,
+                "person": "Kesselring, Mari",
+                "gender": null,
+                "count": 12
+              },
+              {
+                "url": null,
+                "person": "Murphy, Patricia J., 1963-",
+                "gender": null,
+                "count": 4
+              },
+              {
+                "url": null,
+                "person": "Mitten, Luana K",
+                "gender": null,
+                "count": 4
+              },
+              {
+                "url": null,
+                "person": "Harvey, O. L",
+                "gender": null,
+                "count": 3
+              },
+              {
+                "url": null,
+                "person": "Fang, Shiming",
+                "gender": null,
+                "count": 3
+              },
+              {
+                "url": "https://en.wikipedia.org/wiki/Heinz_Zemanek",
+                "person": "Zemanek, Heinz",
+                "gender": "male",
+                "count": 3,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Heinz_Zemanek_JKU_2007.jpg/200px-Heinz_Zemanek_JKU_2007.jpg.jpg"
+              },
+              {
+                "url": null,
+                "person": "Zhang, Peiyu",
+                "gender": null,
+                "count": 3
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    },
+    "C": {
+      "id": "C",
+      "subject": "Auxiliary Sciences of History (General)",
+      "count": 0,
+      "children": {
+        "C1-51": {
+          "id": "C1-51",
+          "subject": "Auxiliary Sciences of History (General)",
+          "count": 66,
+          "children": {},
+          "subjects": {
+            "id": "C1-51",
+            "subject": "Auxiliary Sciences of History (General)",
+            "topPeople": [
+              {
+                "url": null,
+                "person": "Szymański, Józef",
+                "gender": "male",
+                "count": 4
+              }
+            ],
+            "genderType": "male",
+            "hasWomen": false,
+            "occupations": []
+          }
+        }
+      },
+      "subjects": null
+    }
+  },
+  "subjects": null
+}
