@@ -176,7 +176,13 @@
 			}else{
 				var linkHolder = document.getElementById('women-only-link')
 				var womenLink = document.createElement('a')
-				womenLink.setAttribute('href',href + '-women')
+				if (href.search('#')==-1){
+					console.log(href)
+					womenLink.setAttribute('href','#'+level + '-women')
+				}else{
+					womenLink.setAttribute('href',href + '-women')
+				}
+				
 				womenLink.textContent = 'View Classes With Women'
 				linkHolder.appendChild(womenLink)
 			}
@@ -186,9 +192,9 @@
 
 
 
-			
+
 			if (href.split('#')[1]){
-			level = href.split('#')[1].toUpperCase()
+				level = href.split('#')[1].toUpperCase()
 			}
 			var el = document.getElementsByClassName('graph-link');
 			for (var i=0;i<el.length; i++) {
